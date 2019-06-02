@@ -53,33 +53,35 @@ Mode 1 - Ingredient Check
 Mode 2 - Recipe Check
 
       Enter Recipe:
-      
-          Interogate recipe database using API 
-          retrieve and store ingredients
-          cycle all through api for gout 
-          averalge the out come
+          Interogate recipe database using Spoonacular API
           
-          
-           If found:
-             - Display actual metabolite information
-             - Display ingredient type (Animal protein etc.)
-             - Give color display rating 
-             - return
-             
+          If Found:
+          - Identify the key ingredients (Protein, Sauce, garnish)
+          - Retrieve and store major ingredients
+          - Cycle all through api for gout 
+          - average the total 
+          - Give color display rating 
+                 If Food Diary is engaged:
+                   - add to total Purine input and comopare to user-inputted threshold.
+                   
+          - Return
+           
+           
            If not found:
-             - Request Ingredient type. 
-                      Search on Ingredient type 
-                        If found: 
-                                - Relay findings 
-                                - store recommendation
-                                - return
+             - Request Major Ingredient. 
+             - Perform Ingredient search 
+                 If found: 
+                 - Relay findings 
+                 - store recommendation
+                 - return
                                 
-                       If not found:
-                                   - Search google for name 
-                                   - enter name and description 
-                                   - label as yellow (just in case)
-                                   - store
-                                   - return
+                 If not found:
+                 - Notify
+                 - Search google for name 
+                 - Create Stub Record
+                 - label as yellow (just in case)
+                 - store
+                 - return
                                 
                                 
                                 

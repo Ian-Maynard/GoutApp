@@ -15,15 +15,6 @@ The app will use the Spoontacular API to check a given recipe's ingredients agai
 
 App Modes:
 
-The app will then give a color-based rating:
-
-      Green   - Zero to low uric acid metabolizing ingredients 
-
-      Yellow  - Low to Medium uric acid content 
-
-      Red     - Medium to High uric acid metabolizing ingredients
-
-
 Mode 1 - Ingredient Check
 
       Enter Ingredient:
@@ -65,8 +56,7 @@ Mode 2 - Recipe Check
                    - add to total Purine input and comopare to user-inputted threshold.
                    
           - Return
-           
-           
+              
            If not found:
              - Request Major Ingredient. 
              - Perform Ingredient search 
@@ -83,8 +73,16 @@ Mode 2 - Recipe Check
                  - store
                  - return
                                 
-                                
-                                
+      Color Display warning>
+     
+      The app give a color-based rating:
+
+      Green   - Zero to low uric acid metabolizing ingredients 
+
+      Yellow  - Low to Medium uric acid content 
+
+      Red     - Medium to High uric acid metabolizing ingredients
+                     
                                 
                                 
              - 

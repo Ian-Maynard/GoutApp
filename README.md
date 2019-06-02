@@ -1,7 +1,6 @@
 # GoutApp
 App to assist Gout sufferers
 
-
 This app will use an existing database to help gout sufferers avoid flare-ups. 
 
 It will use the data from this source:
@@ -11,7 +10,6 @@ https://www.jstage.jst.go.jp/article/bpb/37/5/37_b13-00967/_pdf/-char/en
 as a basis for discerning how likely to be gout-flare inducing a particular ingredient or recipe will be.
 
 The app will use the Spoontacular API to check a given recipe's ingredients against the source table's data to discern based on the ingredients and their level of uric acid metabolites how gout inducing a recipe is. 
-
 
 App Modes:
 
@@ -29,11 +27,10 @@ Mode 1 - Ingredient Check
            If not found:
              - Request Ingredient type. 
                       Search on Ingredient type 
-                        If found: 
-                                - Relay findings 
-                                - Relay recommendation
-                                - return
-                                
+                       If found: 
+                                   - Relay findings 
+                                   - Relay recommendation
+                                   - return
                        If not found:
                                    - Search google for name 
                                    - enter name and description 
@@ -73,18 +70,18 @@ Mode 2 - Recipe Check
                  - store
                  - return
                                 
-      Color Display warning>
+ Features: The Color Display warning
      
-      The app give a color-based rating:
-
+ The app give a color-based rating:
+ 
       Green   - Zero to low uric acid metabolizing ingredients 
-
       Yellow  - Low to Medium uric acid content 
-
       Red     - Medium to High uric acid metabolizing ingredients
                      
                                 
-                                
+Features: The Food Diary 
+  
+Because gout attacks are caused by an accumulation of Uric acid which is metabolized from a sufferers daily diet,  attacks can be  avoided or mitigated by carefully noting diet. The app will assist by helping a user to see what they've eaten that day and in the recent past
              - 
              
              

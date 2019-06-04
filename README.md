@@ -72,7 +72,7 @@ App Modes:
                                 
  Features: The Color Display warning
      
- The app give a color-based rating:
+      The app will give a color-based rating:
  
       Green   - Zero to low uric acid metabolizing ingredients 
       Yellow  - Low to Medium uric acid content 
@@ -81,7 +81,6 @@ App Modes:
                                 
 Features: The Food Diary 
   
-Because gout attacks are caused by an accumulation of Uric acid which is metabolized from a sufferers daily diet,  attacks can be  avoided or mitigated by carefully noting diet. The app will assist by helping a user to see what they've eaten that day and in the recent past
-             - 
-             
-             
+      Because gout attacks are caused by an accumulation of Uric acid which is metabolized one's daily diet,  attacks can be   
+      avoided or mitigated by carefully noting diet. The app will assist by helping a user to see what they've eaten that day
+      and in the recent past.

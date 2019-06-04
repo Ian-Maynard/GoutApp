@@ -13,7 +13,7 @@ The app will use the Spoontacular API to check a given recipe's ingredients agai
 
 App Modes:
 
-Mode 1 - Ingredient Check
+      Mode 1 - Ingredient Check
 
       Enter Ingredient:
       
@@ -38,7 +38,7 @@ Mode 1 - Ingredient Check
                                    - store
                                    - return
                                    
-Mode 2 - Recipe Check
+      Mode 2 - Recipe Check
 
       Enter Recipe:
           Interogate recipe database using Spoonacular API

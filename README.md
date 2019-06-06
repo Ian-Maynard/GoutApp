@@ -82,19 +82,17 @@ App Modes:
       Yellow  - Low to Medium uric acid content 
       Red     - Medium to High uric acid metabolizing ingredients
                      
-                                
 Features: The Food Diary 
   
-      Because gout attacks are caused by an accumulation of Uric acid which is metabolized one's daily diet,  attacks can be   
-      avoided or mitigated by carefully noting diet. The app will assist by helping a user to see what they've eaten that day
-      and in the recent past.
+      Because gout attacks are caused by an accumulation of Uric acid which is metabolized one's daily diet,  
+      attacks can be avoided or mitigated by carefully noting diet. The app will assist by helping a user to
+      see what they've eaten that day and in the recent past.
 
 Features: Purine API. 
 
       The API will be used in the app and be offered as a stand-alone product in it's own right. 
       
-
 Features: Community/Messaging 
 
-      Community and Messaging. The App will encompass messaging capabilities and use Google to Authenticate and Onboard users. 
-      We will use Firebase for this aspect of the App.
+      Community and Messaging. The App will encompass messaging capabilities and use Google to Authenticate 
+      and Onboard users. We will use Firebase for this aspect of the App.

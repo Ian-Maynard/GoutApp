@@ -96,5 +96,5 @@ Features: Purine API.
 
 Features: Community/Messaging 
 
-Community and Messaging. The App will encompass messaging capabilities and use Google to Authenticate and Onboard users. 
-We will use Firebase for this aspect of the App.
+      Community and Messaging. The App will encompass messaging capabilities and use Google to Authenticate and Onboard users. 
+      We will use Firebase for this aspect of the App.

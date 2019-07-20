@@ -4,7 +4,7 @@ App to assist Gout sufferers
 Because gout attacks are caused by an accumulation of Uric acid which is metabolized one's daily diet attacks can be   
 avoided or mitigated by being aware of the uric acid metabolites in the ingredient in the food one consumes. 
 
-This app will use an existing database to help gout sufferers avoid flare-up's by rating the food the user eats, by 
+This app will use an existing database to help gout sufferers avoid flare-ups by rating the food the user eats, by 
 ingredient or by recipe. 
 
 It will use the data from this source:
@@ -96,3 +96,4 @@ Features: Community/Messaging
 
       Community and Messaging. The App will encompass messaging capabilities and use Google to Authenticate 
       and Onboard users. We will use Firebase for this aspect of the App.
+            

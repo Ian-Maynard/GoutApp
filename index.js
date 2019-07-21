@@ -1,13 +1,23 @@
 /* jshint esversion: 6 */ 
+// const config = require('config');
 const express = require('express');
 const app = express();
 const Joi = require('@hapi/joi');
 const port = process.env.PORT || 3000;
 const morgan = require ('morgan');
+const helmet = require ("helmet");
 
 app.use(express.json()); // Parses JSON objects. Not a default function
-app.use(morgan('tiny')); // Logs events
+app.use(helmet()); // Helmet sequres HTTP request
 
+console.log("Application Name: "+config.get('name'));
+console.log("Mail Password: "+config.get('mail.password'));
+
+
+if (app.get('env') === 'development') {
+    app.use(morgan('tiny'));
+    console.log("Environment is set to Development, therefore Morgan logging is enabled");
+} // Morgan Logs requests and should only be used in Dev environments or for troubleshooting.
 
 
 app.listen(port, () => console.log(`Listening on port ${port}`)); // Event handler 

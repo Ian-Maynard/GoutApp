@@ -1,0 +1,6 @@
+{
+    "name": "Gout App",
+    "mail": {
+        "host": "prod-mail-server"
+    }
+}

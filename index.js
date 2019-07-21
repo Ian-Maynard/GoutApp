@@ -3,6 +3,12 @@ const express = require('express');
 const app = express();
 const Joi = require('@hapi/joi');
 const port = process.env.PORT || 3000;
+const morgan = require ('morgan');
+
+app.use(express.json()); // Parses JSON objects. Not a default function
+app.use(morgan('tiny')); // Logs events
+
+
 
 app.listen(port, () => console.log(`Listening on port ${port}`)); // Event handler 
 
@@ -16,9 +22,8 @@ const ingreds =  [
     {id:7, name:"Oranges", rating:"a"},
     {id:8, name:"Apples", rating:"a"},
     {id:9, name:"Cherries", rating:"a"}
-]; // Create the data structure
+];// Create the data structure
 
-app.use(express.json()); // Parses JSON objects. Not a default function
 
 app.get('/', (req, res) => { 
     res.send('This is the ROOT ROUTE');
@@ -42,7 +47,7 @@ app.post('/api/ingreds', (req, res) => {
         id: ingreds.length + 1,
         name: req.body.name, 
         rating:req.body.rating
-    }
+    };
     ingreds.push(ingred);
     res.send(ingred);
 }); // CRUD - Create an ingredient entry
@@ -86,6 +91,6 @@ function validateIngred(ingred){
     const schema = {
         name: Joi.string().min(3).required(),
         rating: Joi.string().min(1).length(1).required()
-    }
+    };
     return Joi.validate(ingred,schema);
 } // Validate Ingredient schema

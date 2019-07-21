@@ -1,0 +1,2162 @@
+﻿[
+  {
+    "Name": "Barley",
+    "Total": 44.3,
+    "Calc as Uric": 52.1,
+    "Rating": 1,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Buckwheat flour",
+    "Total": 75.9,
+    "Calc as Uric": 89.1,
+    "Rating": 2,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Flour (bread flour)",
+    "Total": 25.8,
+    "Calc as Uric": 30.3,
+    "Rating": 1,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Flour (cake flour)",
+    "Total": 15.7,
+    "Calc as Uric": 18.5,
+    "Rating": 1,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Flour (pastry flour)",
+    "Total": 25.8,
+    "Calc as Uric": 30.3,
+    "Rating": 1,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Rice (polished)",
+    "Total": 25.9,
+    "Calc as Uric": 30.3,
+    "Rating": 1,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Rice (unpolished)",
+    "Total": 37.4,
+    "Calc as Uric": 43.7,
+    "Rating": 1,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Rice (with the bud)",
+    "Total": 34.5,
+    "Calc as Uric": 40.3,
+    "Rating": 1,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Almond",
+    "Total": 31.4,
+    "Calc as Uric": 37,
+    "Rating": 1,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Azuki bean (dried)",
+    "Total": 77.6,
+    "Calc as Uric": 90.8,
+    "Rating": "2*",
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Broad bean",
+    "Total": 35.5,
+    "Calc as Uric": 41.5,
+    "Rating": 1,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Green-peas (canned)",
+    "Total": 18.8,
+    "Calc as Uric": 21.9,
+    "Rating": 1,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Peanut",
+    "Total": 49.1,
+    "Calc as Uric": 57.1,
+    "Rating": 1,
+    "Type": "Cereals",
+    "Comments": ""
+  },
+  {
+    "Name": "Bean curd lees (Okara)",
+    "Total": 48.6,
+    "Calc as Uric": 56.6,
+    "Rating": 1,
+    "Type": "Soybean products",
+    "Comments": ""
+  },
+  {
+    "Name": "Deep-fried tofu",
+    "Total": 54.4,
+    "Calc as Uric": 63.2,
+    "Rating": 2,
+    "Type": "Soybean products",
+    "Comments": ""
+  },
+  {
+    "Name": "Fermented soybean (Natto)",
+    "Total": 113.9,
+    "Calc as Uric": 132.8,
+    "Rating": 3,
+    "Type": "Soybean products",
+    "Comments": ""
+  },
+  {
+    "Name": "Freeze-dried tofu",
+    "Total": 293.1,
+    "Calc as Uric": 342,
+    "Rating": "4*",
+    "Type": "Soybean products",
+    "Comments": ""
+  },
+  {
+    "Name": "Green soybean",
+    "Total": 47.9,
+    "Calc as Uric": 56.1,
+    "Rating": 1,
+    "Type": "Soybean products",
+    "Comments": ""
+  },
+  {
+    "Name": "Soymilk",
+    "Total": 22,
+    "Calc as Uric": 25.8,
+    "Rating": 1,
+    "Type": "Soybean products",
+    "Comments": ""
+  },
+  {
+    "Name": "Soybean (dried)",
+    "Total": 172.5,
+    "Calc as Uric": 201.7,
+    "Rating": "3*",
+    "Type": "Soybean products",
+    "Comments": ""
+  },
+  {
+    "Name": "Tofu (Kinu)",
+    "Total": 20,
+    "Calc as Uric": 23.3,
+    "Rating": 1,
+    "Type": "Soybean products",
+    "Comments": ""
+  },
+  {
+    "Name": "Tofu (Momen, chilled)",
+    "Total": 31.1,
+    "Calc as Uric": 36.5,
+    "Rating": 1,
+    "Type": "Soybean products",
+    "Comments": ""
+  },
+  {
+    "Name": "Tofu (Momen, 3 min boiled)",
+    "Total": 21.9,
+    "Calc as Uric": 26,
+    "Rating": 1,
+    "Type": "Soybean products",
+    "Comments": ""
+  },
+  {
+    "Name": "Cladosiphon okamuranus (Mozuku)",
+    "Total": 15.4,
+    "Calc as Uric": 18,
+    "Rating": 1,
+    "Type": "Dried seaweeds",
+    "Comments": ""
+  },
+  {
+    "Name": "Hijiki",
+    "Total": 132.8,
+    "Calc as Uric": 154.9,
+    "Rating": "3*",
+    "Type": "Dried seaweeds",
+    "Comments": ""
+  },
+  {
+    "Name": "Kombu",
+    "Total": 46.4,
+    "Calc as Uric": 54.5,
+    "Rating": 1,
+    "Type": "Dried seaweeds",
+    "Comments": ""
+  },
+  {
+    "Name": "Nori",
+    "Total": 591.7,
+    "Calc as Uric": 695.6,
+    "Rating": "5*",
+    "Type": "Dried seaweeds",
+    "Comments": ""
+  },
+  {
+    "Name": "Wakame",
+    "Total": 262.4,
+    "Calc as Uric": 306.5,
+    "Rating": "4*",
+    "Type": "Dried seaweeds",
+    "Comments": ""
+  },
+  {
+    "Name": "Chicken egg",
+    "Total": 0,
+    "Calc as Uric": 0,
+    "Rating": 1,
+    "Type": "Eggs",
+    "Comments": ""
+  },
+  {
+    "Name": "Quail egg",
+    "Total": 0,
+    "Calc as Uric": 0,
+    "Rating": 1,
+    "Type": "Eggs",
+    "Comments": ""
+  },
+  {
+    "Name": "Cheese",
+    "Total": 5.7,
+    "Calc as Uric": 6.7,
+    "Rating": 1,
+    "Type": "Dairy products",
+    "Comments": ""
+  },
+  {
+    "Name": "Grated cheese",
+    "Total": 12.9,
+    "Calc as Uric": 15.4,
+    "Rating": 1,
+    "Type": "Dairy products",
+    "Comments": ""
+  },
+  {
+    "Name": "Milk",
+    "Total": 0,
+    "Calc as Uric": 0,
+    "Rating": 1,
+    "Type": "Dairy products",
+    "Comments": ""
+  },
+  {
+    "Name": "Yogurt",
+    "Total": 5.2,
+    "Calc as Uric": 6.2,
+    "Rating": 1,
+    "Type": "Dairy products",
+    "Comments": ""
+  },
+  {
+    "Name": "Bunapii",
+    "Total": 30.8,
+    "Calc as Uric": 36.2,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Bunashimeji",
+    "Total": 20.8,
+    "Calc as Uric": 24.6,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Enokidake",
+    "Total": 49.4,
+    "Calc as Uric": 58.8,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Eringi",
+    "Total": 13.4,
+    "Calc as Uric": 15.7,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Hatakeshimeji",
+    "Total": 16,
+    "Calc as Uric": 19.1,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Hiratake",
+    "Total": 142.3,
+    "Calc as Uric": 168.1,
+    "Rating": 3,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Jew’s-ear (dried)",
+    "Total": 155.7,
+    "Calc as Uric": 181.4,
+    "Rating": "3*",
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Maitake",
+    "Total": 98.5,
+    "Calc as Uric": 116.7,
+    "Rating": 2,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Nameko",
+    "Total": 28.5,
+    "Calc as Uric": 33.6,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Nameko (big type)",
+    "Total": 9.5,
+    "Calc as Uric": 11.2,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Shiitake (dried)",
+    "Total": 379.5,
+    "Calc as Uric": 448.8,
+    "Rating": "5*",
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Shiitake (for Broth, dried)",
+    "Total": 242.3,
+    "Calc as Uric": 288.4,
+    "Rating": "4*",
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Shiitake (raw)",
+    "Total": 20.8,
+    "Calc as Uric": 24.4,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Shiitake No. 115 (raw)",
+    "Total": 15.6,
+    "Calc as Uric": 18.2,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Shiitake No. 240 (raw)",
+    "Total": 26.1,
+    "Calc as Uric": 31,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Shiitake No. 697 (raw)",
+    "Total": 29.5,
+    "Calc as Uric": 34.9,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Tsukuritake",
+    "Total": 49.5,
+    "Calc as Uric": 58.8,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Usu-hiratake",
+    "Total": 37.9,
+    "Calc as Uric": 44.6,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "White aragekikurage",
+    "Total": 6.9,
+    "Calc as Uric": 8,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "White hiratake",
+    "Total": 66.7,
+    "Calc as Uric": 78.1,
+    "Rating": 2,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Yamabushitake",
+    "Total": 33.5,
+    "Calc as Uric": 38.9,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Yanagimatsutake",
+    "Total": 26.2,
+    "Calc as Uric": 30.5,
+    "Rating": 1,
+    "Type": "Fungi",
+    "Comments": ""
+  },
+  {
+    "Name": "Banana",
+    "Total": 3,
+    "Calc as Uric": 3.5,
+    "Rating": 1,
+    "Type": "Fruit",
+    "Comments": ""
+  },
+  {
+    "Name": "Strrawberry",
+    "Total": 2.1,
+    "Calc as Uric": 2.4,
+    "Rating": 1,
+    "Type": "Fruit",
+    "Comments": ""
+  },
+  {
+    "Name": "Asparagus - Upper part",
+    "Total": 55.3,
+    "Calc as Uric": 64.7,
+    "Rating": 2,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Asparagus - Lower part",
+    "Total": 10.2,
+    "Calc as Uric": 12,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Avocado",
+    "Total": 18.4,
+    "Calc as Uric": 21.8,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Balsam pear (goya)",
+    "Total": 9.9,
+    "Calc as Uric": 11.6,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Bamboo shoot - Upper part",
+    "Total": 63.3,
+    "Calc as Uric": 74,
+    "Rating": 2,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Bamboo shoot - Lower part",
+    "Total": 30.8,
+    "Calc as Uric": 36.1,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Bean sprouts",
+    "Total": 35,
+    "Calc as Uric": 41.2,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Broccoli",
+    "Total": 70,
+    "Calc as Uric": 81.8,
+    "Rating": 2,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Broccoli sprout",
+    "Total": 129.6,
+    "Calc as Uric": 153,
+    "Rating": 3,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Cabbage",
+    "Total": 3.2,
+    "Calc as Uric": 3.8,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Carrot",
+    "Total": 2.2,
+    "Calc as Uric": 2.5,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Cauliflower",
+    "Total": 57.2,
+    "Calc as Uric": 67.2,
+    "Rating": 2,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Cherry tomato",
+    "Total": 3.1,
+    "Calc as Uric": 3.7,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Chinese cabbage",
+    "Total": 7,
+    "Calc as Uric": 8.2,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Corn",
+    "Total": 11.7,
+    "Calc as Uric": 13.7,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Cucumber",
+    "Total": 9.4,
+    "Calc as Uric": 11.1,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Eggplant",
+    "Total": 50.7,
+    "Calc as Uric": 58.7,
+    "Rating": 2,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Garlic",
+    "Total": 17,
+    "Calc as Uric": 20.1,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Garlic chives (nira)",
+    "Total": 19.4,
+    "Calc as Uric": 23,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Ginger",
+    "Total": 2.3,
+    "Calc as Uric": 2.5,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Green pepper",
+    "Total": 69.2,
+    "Calc as Uric": 79.8,
+    "Rating": 2,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Gumbo (okura)",
+    "Total": 39.5,
+    "Calc as Uric": 46.3,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Japanese ginger (myoga)",
+    "Total": 7.8,
+    "Calc as Uric": 9.2,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Japanese leek (negi)",
+    "Total": 41.4,
+    "Calc as Uric": 48,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Japanese pumpkin",
+    "Total": 56.6,
+    "Calc as Uric": 66.3,
+    "Rating": 2,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Komatsuna - Leaf",
+    "Total": 10.6,
+    "Calc as Uric": 12.3,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Komatsuna - Young leaf",
+    "Total": 39,
+    "Calc as Uric": 45.1,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Onion",
+    "Total": 2.3,
+    "Calc as Uric": 2.7,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Parsley",
+    "Total": 288.9,
+    "Calc as Uric": 341.3,
+    "Rating": 4,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Perilla leaves (shiso)",
+    "Total": 41.4,
+    "Calc as Uric": 49,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Potato",
+    "Total": 6.5,
+    "Calc as Uric": 7.5,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Spinach",
+    "Total": 51.4,
+    "Calc as Uric": 61,
+    "Rating": 2,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Spinach - Young leaf",
+    "Total": 171.8,
+    "Calc as Uric": 202.1,
+    "Rating": 3,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Sprouts (with bean)",
+    "Total": 57.3,
+    "Calc as Uric": 67.4,
+    "Rating": 2,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Sweet potato",
+    "Total": 17,
+    "Calc as Uric": 20.1,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "White radish sprouts",
+    "Total": 73.2,
+    "Calc as Uric": 86.6,
+    "Rating": 2,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Zucchini",
+    "Total": 13.1,
+    "Calc as Uric": 15.3,
+    "Rating": 1,
+    "Type": "Vegetables",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Brisket",
+    "Total": 79.2,
+    "Calc as Uric": 95.8,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Clod",
+    "Total": 104,
+    "Calc as Uric": 126.1,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Heart",
+    "Total": 185,
+    "Calc as Uric": 223.6,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Kidney",
+    "Total": 174.2,
+    "Calc as Uric": 203.4,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Large intestine",
+    "Total": 88,
+    "Calc as Uric": 103.3,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Liver",
+    "Total": 219.8,
+    "Calc as Uric": 255.5,
+    "Rating": 4,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Neck",
+    "Total": 100.6,
+    "Calc as Uric": 121,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Ribloin",
+    "Total": 74.2,
+    "Calc as Uric": 89.1,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Shin",
+    "Total": 106.4,
+    "Calc as Uric": 127.8,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Shoulder ribs",
+    "Total": 77.4,
+    "Calc as Uric": 92.5,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Shoulder sirloin",
+    "Total": 90.2,
+    "Calc as Uric": 109.3,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Stomach",
+    "Total": 83.9,
+    "Calc as Uric": 99.2,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Tenderloin",
+    "Total": 98.4,
+    "Calc as Uric": 119.4,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Tongue",
+    "Total": 90.4,
+    "Calc as Uric": 109.3,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Topside",
+    "Total": 110.8,
+    "Calc as Uric": 134.5,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Topside (raw)",
+    "Total": 135.2,
+    "Calc as Uric": 162.4,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Beef Topside (heated)",
+    "Total": 143.5,
+    "Calc as Uric": 173.8,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Chicken Breast",
+    "Total": 141.2,
+    "Calc as Uric": 171.8,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Chicken Buttocks",
+    "Total": 68.8,
+    "Calc as Uric": 81.6,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Chicken Gizzard",
+    "Total": 142.9,
+    "Calc as Uric": 169.8,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Chicken Heart",
+    "Total": 125.4,
+    "Calc as Uric": 150,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Chicken Leg",
+    "Total": 122.9,
+    "Calc as Uric": 149.6,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Chicken Liver",
+    "Total": 312.2,
+    "Calc as Uric": 363.1,
+    "Rating": 5,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Chicken Skin",
+    "Total": 119.7,
+    "Calc as Uric": 142.9,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Chicken White meat",
+    "Total": 153.9,
+    "Calc as Uric": 188.3,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Chicken Wing",
+    "Total": 137.5,
+    "Calc as Uric": 168.1,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Horse",
+    "Total": 113.1,
+    "Calc as Uric": 136.5,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Horse Mutton",
+    "Total": 96.2,
+    "Calc as Uric": 117.7,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Horse Rum",
+    "Total": 93.5,
+    "Calc as Uric": 114.3,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Heart",
+    "Total": 119.2,
+    "Calc as Uric": 144.6,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Kidney",
+    "Total": 195,
+    "Calc as Uric": 232,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Liver",
+    "Total": 284.8,
+    "Calc as Uric": 331.2,
+    "Rating": 4,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Neck",
+    "Total": 70.5,
+    "Calc as Uric": 85.7,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Ribs",
+    "Total": 75.8,
+    "Calc as Uric": 92.5,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Rump",
+    "Total": 113,
+    "Calc as Uric": 137.8,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Shoulder",
+    "Total": 81.4,
+    "Calc as Uric": 99.2,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Shoulder ribs",
+    "Total": 90.8,
+    "Calc as Uric": 110.9,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Shoulder sirloin",
+    "Total": 95.1,
+    "Calc as Uric": 116,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Shoulder knee",
+    "Total": 107.6,
+    "Calc as Uric": 131.1,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Sirloin",
+    "Total": 90.9,
+    "Calc as Uric": 110.9,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Tenderloin",
+    "Total": 119.7,
+    "Calc as Uric": 146.2,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pork Tongue",
+    "Total": 104,
+    "Calc as Uric": 126.1,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Whale Meat",
+    "Total": 111.3,
+    "Calc as Uric": 136.2,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Whale Tail meat",
+    "Total": 87.6,
+    "Calc as Uric": 107.6,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Bacon",
+    "Total": 61.8,
+    "Calc as Uric": 75.6,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Boneless ham",
+    "Total": 74.2,
+    "Calc as Uric": 90.8,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Corned beef",
+    "Total": 47,
+    "Calc as Uric": 57.2,
+    "Rating": 1,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Frankfurt sausage",
+    "Total": 49.8,
+    "Calc as Uric": 60.5,
+    "Rating": 1,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Liver paste",
+    "Total": 80,
+    "Calc as Uric": 94.1,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Pressed ham",
+    "Total": 64.4,
+    "Calc as Uric": 79,
+    "Rating": 2,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Prosciutto (Parma ham)",
+    "Total": 138.3,
+    "Calc as Uric": 168.2,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Salami",
+    "Total": 120.4,
+    "Calc as Uric": 146.2,
+    "Rating": 3,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Vienna sausage",
+    "Total": 45.5,
+    "Calc as Uric": 55.5,
+    "Rating": 1,
+    "Type": "Meat",
+    "Comments": ""
+  },
+  {
+    "Name": "Arabesque greenling",
+    "Total": 150,
+    "Calc as Uric": 181,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Ayu",
+    "Total": 133.1,
+    "Calc as Uric": 161.4,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Barracuda",
+    "Total": 147.9,
+    "Calc as Uric": 179.9,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Bastard halibut",
+    "Total": 133.4,
+    "Calc as Uric": 163.1,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Bonito",
+    "Total": 211.4,
+    "Calc as Uric": 258.9,
+    "Rating": 4,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Carp",
+    "Total": 103.2,
+    "Calc as Uric": 126.1,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Chub mackerel",
+    "Total": 122.1,
+    "Calc as Uric": 149.6,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Fat greenling",
+    "Total": 129.1,
+    "Calc as Uric": 158,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Flying ﬁsh",
+    "Total": 154.6,
+    "Calc as Uric": 188.3,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Gnomeﬁsh Meat",
+    "Total": 150.8,
+    "Calc as Uric": 184.4,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Gnomeﬁsh Fish",
+    "Total": 382.3,
+    "Calc as Uric": 435.5,
+    "Rating": 5,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Herring",
+    "Total": 139.6,
+    "Calc as Uric": 169.8,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Jack mackerel",
+    "Total": 165.3,
+    "Calc as Uric": 198.4,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Japanese amberjack",
+    "Total": 120.8,
+    "Calc as Uric": 147.9,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Japanese eel",
+    "Total": 92.1,
+    "Calc as Uric": 110.9,
+    "Rating": 2,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Japanese seabass",
+    "Total": 119.5,
+    "Calc as Uric": 146.2,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Mebaru",
+    "Total": 124.2,
+    "Calc as Uric": 151.3,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Monkﬁsh Meat",
+    "Total": 70,
+    "Calc as Uric": 84.2,
+    "Rating": 2,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Monkﬁsh Liver (Raw)",
+    "Total": 104.3,
+    "Calc as Uric": 121.8,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Monkﬁsh Liver (steamed)",
+    "Total": 399.2,
+    "Calc as Uric": 468.2,
+    "Rating": 5,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Paciﬁc saury",
+    "Total": 154.9,
+    "Calc as Uric": 184.9,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Rainbow trout",
+    "Total": 180.9,
+    "Calc as Uric": 216.8,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Red seabream",
+    "Total": 128.9,
+    "Calc as Uric": 158,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Sableﬁsh Meat",
+    "Total": 123.3,
+    "Calc as Uric": 151.1,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Sableﬁsh Skin",
+    "Total": 66.9,
+    "Calc as Uric": 80.8,
+    "Rating": 2,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Sailﬁn sandﬁsh",
+    "Total": 98.5,
+    "Calc as Uric": 117.7,
+    "Rating": 2,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Salmon",
+    "Total": 119.3,
+    "Calc as Uric": 146.2,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Sardine",
+    "Total": 210.4,
+    "Calc as Uric": 247.1,
+    "Rating": 4,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Sillaginidae",
+    "Total": 143.9,
+    "Calc as Uric": 176.5,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Spanish mackerel",
+    "Total": 139.3,
+    "Calc as Uric": 171.5,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Striped pigﬁsh",
+    "Total": 149.3,
+    "Calc as Uric": 183.2,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Tileﬁsh",
+    "Total": 119.4,
+    "Calc as Uric": 146.2,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Tuna",
+    "Total": 157.4,
+    "Calc as Uric": 193.3,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Wakasagi smelt",
+    "Total": 94.8,
+    "Calc as Uric": 114.3,
+    "Rating": 2,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Weather loach",
+    "Total": 136,
+    "Calc as Uric": 161.4,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Yellow striped flounder",
+    "Total": 113,
+    "Calc as Uric": 136.2,
+    "Rating": 3,
+    "Type": "Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Caviar",
+    "Total": 94.7,
+    "Calc as Uric": 111.1,
+    "Rating": 2,
+    "Type": "FIsh Roe and Milt",
+    "Comments": ""
+  },
+  {
+    "Name": "Flying ﬁsh roe",
+    "Total": 91.5,
+    "Calc as Uric": 107.1,
+    "Rating": 2,
+    "Type": "FIsh Roe and Milt",
+    "Comments": ""
+  },
+  {
+    "Name": "Flying ﬁsh roe (Tobiko)",
+    "Total": 67.8,
+    "Calc as Uric": 81.8,
+    "Rating": 2,
+    "Type": "FIsh Roe and Milt",
+    "Comments": ""
+  },
+  {
+    "Name": "Herring roe (Kazunoko)",
+    "Total": 21.9,
+    "Calc as Uric": 25.2,
+    "Rating": 1,
+    "Type": "FIsh Roe and Milt",
+    "Comments": ""
+  },
+  {
+    "Name": "Salmon roe (Ikura)",
+    "Total": 3.7,
+    "Calc as Uric": 4.4,
+    "Rating": 1,
+    "Type": "FIsh Roe and Milt",
+    "Comments": ""
+  },
+  {
+    "Name": "Pollock roe",
+    "Total": 159.3,
+    "Calc as Uric": 186,
+    "Rating": 3,
+    "Type": "FIsh Roe and Milt",
+    "Comments": ""
+  },
+  {
+    "Name": "Pollock roe (Tarako)",
+    "Total": 120.7,
+    "Calc as Uric": 141.2,
+    "Rating": 3,
+    "Type": "FIsh Roe and Milt",
+    "Comments": ""
+  },
+  {
+    "Name": "Salmon roe (Sujiko)",
+    "Total": 15.7,
+    "Calc as Uric": 18.5,
+    "Rating": 1,
+    "Type": "FIsh Roe and Milt",
+    "Comments": ""
+  },
+  {
+    "Name": "Milt (Striped pigﬁsh)",
+    "Total": 305.5,
+    "Calc as Uric": 351.1,
+    "Rating": 5,
+    "Type": "FIsh Roe and Milt",
+    "Comments": ""
+  },
+  {
+    "Name": "Botan shrimp",
+    "Total": 53.4,
+    "Calc as Uric": 64,
+    "Rating": 2,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Botan shrimp (roe)",
+    "Total": 162.5,
+    "Calc as Uric": 194.9,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Clam",
+    "Total": 145.5,
+    "Calc as Uric": 171.5,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Common orient clam",
+    "Total": 104.5,
+    "Calc as Uric": 122.7,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Crab Ovary",
+    "Total": 152.2,
+    "Calc as Uric": 175.4,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Firefly squid",
+    "Total": 128.1,
+    "Calc as Uric": 151.2,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Japanese flying squid",
+    "Total": 186.8,
+    "Calc as Uric": 223.6,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Japanese scallop",
+    "Total": 76.5,
+    "Calc as Uric": 94.2,
+    "Rating": 2,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Kuruma shrimp",
+    "Total": 195.3,
+    "Calc as Uric": 235.3,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Octopus",
+    "Total": 137.3,
+    "Calc as Uric": 159.7,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Octopus Organs",
+    "Total": 79.8,
+    "Calc as Uric": 93.1,
+    "Rating": 2,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Okiami (Krill)",
+    "Total": 225.7,
+    "Calc as Uric": 267.3,
+    "Rating": 4,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Oriental shrimp",
+    "Total": 273.2,
+    "Calc as Uric": 321.1,
+    "Rating": 4,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Oyster",
+    "Total": 184.5,
+    "Calc as Uric": 213.5,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Red king crab",
+    "Total": 99.6,
+    "Calc as Uric": 119.4,
+    "Rating": 2,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Sakura shrimp (dried)",
+    "Total": 749.1,
+    "Calc as Uric": 907,
+    "Rating": "5*",
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Sea cucumber",
+    "Total": 5.5,
+    "Calc as Uric": 6.6,
+    "Rating": 1,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Sea Urchin",
+    "Total": 137.3,
+    "Calc as Uric": 160.7,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Shiba shrimp",
+    "Total": 144.2,
+    "Calc as Uric": 176.5,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Shredded squid (dried)",
+    "Total": 94.4,
+    "Calc as Uric": 114.2,
+    "Rating": "2*",
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Snow crab",
+    "Total": 136.4,
+    "Calc as Uric": 161.4,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Spear squid",
+    "Total": 160.5,
+    "Calc as Uric": 190,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Spiny lobster",
+    "Total": 102.1,
+    "Calc as Uric": 125.2,
+    "Rating": 3,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Squid Organs",
+    "Total": 59.6,
+    "Calc as Uric": 68.8,
+    "Rating": 2,
+    "Type": "Shellﬁsh, Mollusk",
+    "Comments": ""
+  },
+  {
+    "Name": "Jack mackerel",
+    "Total": 245.8,
+    "Calc as Uric": 289.1,
+    "Rating": 4,
+    "Type": "Canned Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Paciﬁc saury",
+    "Total": 208.8,
+    "Calc as Uric": 245.4,
+    "Rating": 4,
+    "Type": "Canned Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Sardine",
+    "Total": 305.7,
+    "Calc as Uric": 358.1,
+    "Rating": 5,
+    "Type": "Canned Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Shishamo with roe",
+    "Total": 149.6,
+    "Calc as Uric": 177.1,
+    "Rating": 3,
+    "Type": "Canned Fish",
+    "Comments": ""
+  },
+  {
+    "Name": "Anchovy (dried)",
+    "Total": 1108.6,
+    "Calc as Uric": 1314.2,
+    "Rating": "5*",
+    "Type": "Dried ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Katsuobushi (dried bonito)",
+    "Total": 493.3,
+    "Calc as Uric": 600.1,
+    "Rating": "5*",
+    "Type": "Dried ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Niboshi (dried baby sardines)",
+    "Total": 746.1,
+    "Calc as Uric": 879.2,
+    "Rating": "5*",
+    "Type": "Dried ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Whitebait (dried)",
+    "Total": 471.5,
+    "Calc as Uric": 554,
+    "Rating": "5*",
+    "Type": "Dried ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Salmon",
+    "Total": 132.9,
+    "Calc as Uric": 159.7,
+    "Rating": 3,
+    "Type": "Canned ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Tuna",
+    "Total": 116.9,
+    "Calc as Uric": 142.9,
+    "Rating": 3,
+    "Type": "Canned ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Fish ball",
+    "Total": 67.6,
+    "Calc as Uric": 80.7,
+    "Rating": 2,
+    "Type": "Processed ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Fish sausage",
+    "Total": 22.6,
+    "Calc as Uric": 26.9,
+    "Rating": 1,
+    "Type": "Processed ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Fishcake tube (Chikuwa)",
+    "Total": 47.7,
+    "Calc as Uric": 57.2,
+    "Rating": 1,
+    "Type": "Processed ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Fish product (Hanpen)",
+    "Total": 12.5,
+    "Calc as Uric": 15,
+    "Rating": 1,
+    "Type": "Processed ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Fish product (Kamaboko)",
+    "Total": 26.4,
+    "Calc as Uric": 31.9,
+    "Rating": 1,
+    "Type": "Processed ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Fish product (Narutomaki)",
+    "Total": 32.4,
+    "Calc as Uric": 38.7,
+    "Rating": 1,
+    "Type": "Processed ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Fish product (Sasakamaboko)",
+    "Total": 47.8,
+    "Calc as Uric": 57.2,
+    "Rating": 1,
+    "Type": "Processed ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Fish product (Satsuma age)",
+    "Total": 21.4,
+    "Calc as Uric": 25.2,
+    "Rating": 1,
+    "Type": "Processed ﬁsh",
+    "Comments": ""
+  },
+  {
+    "Name": "Deep-fried rice cracker",
+    "Total": 14.1,
+    "Calc as Uric": 16.2,
+    "Rating": 1,
+    "Type": "Snacks",
+    "Comments": ""
+  },
+  {
+    "Name": "Ramen (Japanese noodle) Soup",
+    "Total": 32.7,
+    "Calc as Uric": 39,
+    "Rating": 1,
+    "Type": "Snacks",
+    "Comments": ""
+  },
+  {
+    "Name": "Ramen (Japanese noodle) Noodle",
+    "Total": 21.6,
+    "Calc as Uric": 25,
+    "Rating": 1,
+    "Type": "Snacks",
+    "Comments": ""
+  },
+  {
+    "Name": "Barbecue sauce",
+    "Total": 14.9,
+    "Calc as Uric": 18.4,
+    "Rating": 1,
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Frying powder",
+    "Total": 68.7,
+    "Calc as Uric": 81.8,
+    "Rating": 2,
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Honey",
+    "Total": 0.9,
+    "Calc as Uric": 1.1,
+    "Rating": 1,
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Mirin",
+    "Total": 1.2,
+    "Calc as Uric": 1.4,
+    "Rating": 1,
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Red Miso",
+    "Total": 63.5,
+    "Calc as Uric": 75.6,
+    "Rating": 2,
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "White Miso",
+    "Total": 48.8,
+    "Calc as Uric": 57.8,
+    "Rating": 1,
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Nampla",
+    "Total": 93.1,
+    "Calc as Uric": 113.6,
+    "Rating": 2,
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Oyster sauce",
+    "Total": 134.4,
+    "Calc as Uric": 161.8,
+    "Rating": 3,
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Consomme Powder soup",
+    "Total": 179.8,
+    "Calc as Uric": 211.3,
+    "Rating": "3*",
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Powder soup Potage",
+    "Total": 37.6,
+    "Calc as Uric": 45.5,
+    "Rating": "1*",
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Clam chowder Powder soup",
+    "Total": 47.1,
+    "Calc as Uric": 56.6,
+    "Rating": "1*",
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Chinese soup Powder soup",
+    "Total": 185.9,
+    "Calc as Uric": 226.1,
+    "Rating": "3*",
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Matsutake Powder soup",
+    "Total": 233.4,
+    "Calc as Uric": 274.4,
+    "Rating": "4*",
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Powdered Umami broth",
+    "Total": 684.8,
+    "Calc as Uric": 843.3,
+    "Rating": "5*",
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Rice bran",
+    "Total": 100.2,
+    "Calc as Uric": 116.9,
+    "Rating": 3,
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Dark Soy sauce",
+    "Total": 45.2,
+    "Calc as Uric": 54.3,
+    "Rating": 1,
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Light Soy sauce",
+    "Total": 55.3,
+    "Calc as Uric": 64.9,
+    "Rating": 2,
+    "Type": "Seasonings",
+    "Comments": ""
+  },
+  {
+    "Name": "Beer yeast",
+    "Total": 2995.7,
+    "Calc as Uric": 3561.5,
+    "Rating": 5,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Beer yeast product",
+    "Total": 1206.2,
+    "Calc as Uric": 1426.4,
+    "Rating": 5,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Chitin, Chitosan",
+    "Total": 0.6,
+    "Calc as Uric": 0.7,
+    "Rating": 1,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Chlorella",
+    "Total": 3182.7,
+    "Calc as Uric": 3747.3,
+    "Rating": 5,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Chondroitin and Beer yeast",
+    "Total": 186.1,
+    "Calc as Uric": 222.1,
+    "Rating": 3,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "DNA/RNA",
+    "Total": 21493.6,
+    "Calc as Uric": 25640.8,
+    "Rating": 5,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Glucosamine",
+    "Total": 11.8,
+    "Calc as Uric": 14.4,
+    "Rating": 1,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Nucleic acid juice",
+    "Total": 8.3,
+    "Calc as Uric": 9.6,
+    "Rating": 1,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Polysaccharide",
+    "Total": 58.1,
+    "Calc as Uric": 68.7,
+    "Rating": 2,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Royal jelly",
+    "Total": 403.4,
+    "Calc as Uric": 494.3,
+    "Rating": 5,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Scales and collagen",
+    "Total": 2.9,
+    "Calc as Uric": 3.4,
+    "Rating": 1,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Soy isoflavone",
+    "Total": 6.9,
+    "Calc as Uric": 7.9,
+    "Rating": 1,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Spirulina",
+    "Total": 1076.8,
+    "Calc as Uric": 1268.5,
+    "Rating": 5,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Kale Vegetable drink powder",
+    "Total": 40.2,
+    "Calc as Uric": 46.4,
+    "Rating": 1,
+    "Type": "Supplements",
+    "Comments": ""
+  },
+  {
+    "Name": "Barley Vegetable drink powder",
+    "Total": 88.5,
+    "Calc as Uric": 102.5,
+    "Rating": 2,
+    "Type": "Supplements",
+    "Comments": ""
+  }
+]

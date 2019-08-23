@@ -1,6 +1,5 @@
 /* jshint esversion: 6 */ 
 /* jshint esversion: 8 */ 
-
 const Joi = require('@hapi/joi');
 const mongoose = require('mongoose');
 
@@ -38,7 +37,6 @@ const Ingredient = mongoose.model('ingredient', new mongoose.Schema({
 
     }));
       
-
 function validateIngredient(ingredient) {
             const schema = {
               name: Joi.string().min(3).required(),

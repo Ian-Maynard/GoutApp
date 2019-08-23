@@ -47,4 +47,7 @@ function validateIngredient(ingredient) {
             };
             return Joi.validate(ingredient, schema);
           }
+module.exports.Ingredient = Ingredient;
+module.exports.validate = validateIngredient();
+          
         

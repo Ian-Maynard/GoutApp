@@ -46,8 +46,6 @@ function validateIngredient(ingredient) {
               class: Joi.string().min(5).max(50).required()
             };
             return Joi.validate(ingredient, schema);
-          }
+}
 module.exports.Ingredient = Ingredient;
 module.exports.validate = validateIngredient();
-          
-        

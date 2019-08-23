@@ -1,84 +1,17 @@
 /* jshint esversion: 6 */ 
+/* jshint esversion: 8 */ 
 
+const { Ingredient, validate} = require('../models/ingredient'); // access the ingredient model 
 const express = require('express');
 const router = express.Router();
-const ingreds =  [
-    {id:1, name:"Bacon", rating:"c"},
-    {id:2, name:"Egg", rating:"a"},
-    {id:3, name:"Shrimp", rating:"d"},
-    {id:4, name:"Green Onions", rating:"a"},
-    {id:5, name:"Peanuts", rating:"a"},
-    {id:6, name:"Steak", rating:"c"},
-    {id:7, name:"Oranges", rating:"a"},
-    {id:8, name:"Apples", rating:"a"},
-    {id:9, name:"Cherries", rating:"a"}
-];// Create the data structure
+
 
 router.get('/', (req, res) => {         
-    res.send(ingreds);
+    res.send(ingredients);
 }); // CRUD: Read all Ingredients
 
 router.get('/:id', (req, res) => {
-    const ingred = ingreds.find(i => i.id === parseInt(req.params.id));
-    if (!ingred) res.status(404).send(req.params.id+" is unknown.");
-    res.send(ingred);
+  
 }); // CRUD: Read an Ingredient
-
-router.post('/', (req, res) => {        
-    const { error } = validateIngred(req.body); // Validate
-    if (error) return res.status(400).send(res.error.details[0].message);
-        
-    const ingred = {
-        id: ingreds.length + 1,
-        name: req.body.name, 
-        rating:req.body.rating
-    };
-    ingreds.push(ingred);
-    res.send(ingred);
-}); // CRUD - Create an ingredient entry
-
-router.put('/:id', (req, res) => {
-
-    console.log(req.body);
-
-    const ingred = ingreds.find(i => i.id === parseInt(req.params.id));
-    if (!ingred) return res.status(404).send(req.params.id+" is unknown.");
-    // Access and supply requested record. Return error if not found
-        
-    const { error } = validateIngred(req.body);
-    if (error) return res.status(400).send(res.error.details[0].message);
-    // Validate data supplied and return error if validation fails.
-
-// Assign
-  ingred.name = req.body.name;
-  ingred.rating = req.body.rating;
-
-// Send it back 
-res.send(ingred);
-
-}); // CRUD: Update an Ingredient 
-
-
-router.delete(':id', (req, res) => {
-    const ingred = ingreds.find(i => i.id === parseInt(req.params.id));
-    if (!ingred) res.status(404).send(req.params.id+" is unknown.");
-    res.send(ingred);
-
-    const index = ingreds.indexOf(ingred); // locate index of requested record then...
-
-    ingreds.splice(index, 1);  // use it to delete record and splice array then...
-    res.send(ingred); // send the deleted record.
-
-}); // CRUD: Delete an Ingredient
-
-
-function validateIngred(ingred){
-    const schema = {
-        name: Joi.string().min(3).required(),
-        rating: Joi.string().min(1).length(1).required()
-    };
-    return Joi.validate(ingred,schema);
-} // Validate Ingredient schema
-
 
 module.exports = router;

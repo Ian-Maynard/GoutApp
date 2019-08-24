@@ -6,12 +6,11 @@ const dbDebugger = require('debug')('app:db');
 
 const express = require('express');
 const app = express();
-const Joi = require('@hapi/joi');
 const port = process.env.PORT || 3000;
 const morgan = require ('morgan');
 const helmet = require ("helmet");
 const config = require ("config");
-const ingredients = require("./routes/ingredients.js");
+const ingredient = require("./routes/ingredients.js");
 const main = require("./routes/main.js");
 const mongoose = require('mongoose');
 
@@ -21,7 +20,7 @@ mongoose.connect('mongodb://localhost/goutDB')
 
 app.use(express.json()); // Parses JSON objects. Not a default function
 app.use(helmet()); // Helmet secures HTTP request
-app.use('/api/ingreds', ingredients);
+app.use('/api/ingreds', ingredient);
 app.use('/', main);
 
 app.set('view engine','pug');

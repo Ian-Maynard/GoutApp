@@ -1,17 +1,19 @@
 /* jshint esversion: 6 */ 
 /* jshint esversion: 8 */ 
 
-const { Ingredient, validate} = require('../models/ingredient'); // access the ingredient model 
-const express = require('express');
-const router = express.Router();
+const { Ingredient, validate} = require('../models/ingredients_m'); // load the ingredient model 
+const express = require('express'); // Load express
+const router = express.Router(); // Load express router
 
+router.get('/', async (req, res) => {
+    console.log('Get');
+    try {
+      const ingredients = await Ingredient.find().sort('name');
+      res.send(ingredients);
+    }
+    catch (err) {
+      console.log('Error: ',err.message);
+      }
+  });
 
-router.get('/', (req, res) => {         
-    res.send(ingredients);
-}); // CRUD: Read all Ingredients
-
-router.get('/:id', (req, res) => {
-  
-}); // CRUD: Read an Ingredient
-
-module.exports = router;
+module.exports = router; // export the router

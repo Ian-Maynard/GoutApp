@@ -1,0 +1,272 @@
+{ "Name": "Barley", "TotalUric": 44.3, "CalcUric": 52.1, "Rating": "1", "Type": "Cereals", "Comments": "" }
+{ "Name": "Buckwheat flour", "TotalUric": 75.9, "CalcUric": 89.1, "Rating": "2", "Type": "Cereals", "Comments": "" }
+{ "Name": "Flour (bread flour)", "TotalUric": 25.8, "CalcUric": 30.3, "Rating": "1", "Type": "Cereals", "Comments": "" }
+{ "Name": "Flour (cake flour)", "TotalUric": 15.7, "CalcUric": 18.5, "Rating": "1", "Type": "Cereals", "Comments": "" }
+{ "Name": "Flour (pastry flour)", "TotalUric": 25.8, "CalcUric": 30.3, "Rating": "1", "Type": "Cereals", "Comments": "" }
+{ "Name": "Rice (polished)", "TotalUric": 25.9, "CalcUric": 30.3, "Rating": "1", "Type": "Cereals", "Comments": "" }
+{ "Name": "Rice (unpolished)", "TotalUric": 37.4, "CalcUric": 43.7, "Rating": "1", "Type": "Cereals", "Comments": "" }
+{ "Name": "Rice (with the bud)", "TotalUric": 34.5, "CalcUric": 40.3, "Rating": "1", "Type": "Cereals", "Comments": "" }
+{ "Name": "Almond", "TotalUric": 31.4, "CalcUric": 37, "Rating": "1", "Type": "Cereals", "Comments": "" }
+{ "Name": "Azuki bean (dried)", "TotalUric": 77.6, "CalcUric": 90.8, "Rating": "2*", "Type": "Cereals", "Comments": "" }
+{ "Name": "Broad bean", "TotalUric": 35.5, "CalcUric": 41.5, "Rating": "1", "Type": "Cereals", "Comments": "" }
+{ "Name": "Green-peas (canned)", "TotalUric": 18.8, "CalcUric": 21.9, "Rating": "1", "Type": "Cereals", "Comments": "" }
+{ "Name": "Peanut", "TotalUric": 49.1, "CalcUric": 57.1, "Rating": "1", "Type": "Cereals", "Comments": "" }
+{ "Name": "Bean curd lees (Okara)", "TotalUric": 48.6, "CalcUric": 56.6, "Rating": "1", "Type": "Soybean products", "Comments": "" }
+{ "Name": "Deep-fried tofu", "TotalUric": 54.4, "CalcUric": 63.2, "Rating": "2", "Type": "Soybean products", "Comments": "" }
+{ "Name": "Fermented soybean (Natto)", "TotalUric": 113.9, "CalcUric": 132.8, "Rating": "3", "Type": "Soybean products", "Comments": "" }
+{ "Name": "Freeze-dried tofu", "TotalUric": 293.1, "CalcUric": 342, "Rating": "4*", "Type": "Soybean products", "Comments": "" }
+{ "Name": "Green soybean", "TotalUric": 47.9, "CalcUric": 56.1, "Rating": "1", "Type": "Soybean products", "Comments": "" }
+{ "Name": "Soymilk", "TotalUric": 22, "CalcUric": 25.8, "Rating": "1", "Type": "Soybean products", "Comments": "" }
+{ "Name": "Soybean (dried)", "TotalUric": 172.5, "CalcUric": 201.7, "Rating": "3*", "Type": "Soybean products", "Comments": "" }
+{ "Name": "Tofu (Kinu)", "TotalUric": 20, "CalcUric": 23.3, "Rating": "1", "Type": "Soybean products", "Comments": "" }
+{ "Name": "Tofu (Momen, chilled)", "TotalUric": 31.1, "CalcUric": 36.5, "Rating": "1", "Type": "Soybean products", "Comments": "" }
+{ "Name": "Tofu (Momen, 3 min boiled)", "TotalUric": 21.9, "CalcUric": 26, "Rating": "1", "Type": "Soybean products", "Comments": "" }
+{ "Name": "Cladosiphon okamuranus (Mozuku)", "TotalUric": 15.4, "CalcUric": 18, "Rating": "1", "Type": "Dried seaweeds", "Comments": "" }
+{ "Name": "Hijiki", "TotalUric": 132.8, "CalcUric": 154.9, "Rating": "3*", "Type": "Dried seaweeds", "Comments": "" }
+{ "Name": "Kombu", "TotalUric": 46.4, "CalcUric": 54.5, "Rating": "1", "Type": "Dried seaweeds", "Comments": "" }
+{ "Name": "Nori", "TotalUric": 591.7, "CalcUric": 695.6, "Rating": "5*", "Type": "Dried seaweeds", "Comments": "" }
+{ "Name": "Wakame", "TotalUric": 262.4, "CalcUric": 306.5, "Rating": "4*", "Type": "Dried seaweeds", "Comments": "" }
+{ "Name": "Chicken egg", "TotalUric": 0, "CalcUric": 0, "Rating": "1", "Type": "Eggs", "Comments": "" }
+{ "Name": "Quail egg", "TotalUric": 0, "CalcUric": 0, "Rating": "1", "Type": "Eggs", "Comments": "" }
+{ "Name": "Cheese", "TotalUric": 5.7, "CalcUric": 6.7, "Rating": "1", "Type": "Dairy products", "Comments": "" }
+{ "Name": "Grated cheese", "TotalUric": 12.9, "CalcUric": 15.4, "Rating": "1", "Type": "Dairy products", "Comments": "" }
+{ "Name": "Milk", "TotalUric": 0, "CalcUric": 0, "Rating": "1", "Type": "Dairy products", "Comments": "" }
+{ "Name": "Yogurt", "TotalUric": 5.2, "CalcUric": 6.2, "Rating": "1", "Type": "Dairy products", "Comments": "" }
+{ "Name": "Bunapii", "TotalUric": 30.8, "CalcUric": 36.2, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Bunashimeji", "TotalUric": 20.8, "CalcUric": 24.6, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Enokidake", "TotalUric": 49.4, "CalcUric": 58.8, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Eringi", "TotalUric": 13.4, "CalcUric": 15.7, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Hatakeshimeji", "TotalUric": 16, "CalcUric": 19.1, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Hiratake", "TotalUric": 142.3, "CalcUric": 168.1, "Rating": "3", "Type": "Fungi", "Comments": "" }
+{ "Name": "Jew’s-ear (dried)", "TotalUric": 155.7, "CalcUric": 181.4, "Rating": "3*", "Type": "Fungi", "Comments": "" }
+{ "Name": "Maitake", "TotalUric": 98.5, "CalcUric": 116.7, "Rating": "2", "Type": "Fungi", "Comments": "" }
+{ "Name": "Nameko", "TotalUric": 28.5, "CalcUric": 33.6, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Nameko (big type)", "TotalUric": 9.5, "CalcUric": 11.2, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Shiitake (dried)", "TotalUric": 379.5, "CalcUric": 448.8, "Rating": "5*", "Type": "Fungi", "Comments": "" }
+{ "Name": "Shiitake (for Broth, dried)", "TotalUric": 242.3, "CalcUric": 288.4, "Rating": "4*", "Type": "Fungi", "Comments": "" }
+{ "Name": "Shiitake (raw)", "TotalUric": 20.8, "CalcUric": 24.4, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Shiitake No. 115 (raw)", "TotalUric": 15.6, "CalcUric": 18.2, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Shiitake No. 240 (raw)", "TotalUric": 26.1, "CalcUric": 31, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Shiitake No. 697 (raw)", "TotalUric": 29.5, "CalcUric": 34.9, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Tsukuritake", "TotalUric": 49.5, "CalcUric": 58.8, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Usu-hiratake", "TotalUric": 37.9, "CalcUric": 44.6, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "White aragekikurage", "TotalUric": 6.9, "CalcUric": 8, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "White hiratake", "TotalUric": 66.7, "CalcUric": 78.1, "Rating": "2", "Type": "Fungi", "Comments": "" }
+{ "Name": "Yamabushitake", "TotalUric": 33.5, "CalcUric": 38.9, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Yanagimatsutake", "TotalUric": 26.2, "CalcUric": 30.5, "Rating": "1", "Type": "Fungi", "Comments": "" }
+{ "Name": "Banana", "TotalUric": 3, "CalcUric": 3.5, "Rating": "1", "Type": "Fruit", "Comments": "" }
+{ "Name": "Strrawberry", "TotalUric": 2.1, "CalcUric": 2.4, "Rating": "1", "Type": "Fruit", "Comments": "" }
+{ "Name": "Asparagus - Upper part", "TotalUric": 55.3, "CalcUric": 64.7, "Rating": "2", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Asparagus - Lower part", "TotalUric": 10.2, "CalcUric": 12, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Avocado", "TotalUric": 18.4, "CalcUric": 21.8, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Balsam pear (goya)", "TotalUric": 9.9, "CalcUric": 11.6, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Bamboo shoot - Upper part", "TotalUric": 63.3, "CalcUric": 74, "Rating": "2", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Bamboo shoot - Lower part", "TotalUric": 30.8, "CalcUric": 36.1, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Bean sprouts", "TotalUric": 35, "CalcUric": 41.2, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Broccoli", "TotalUric": 70, "CalcUric": 81.8, "Rating": "2", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Broccoli sprout", "TotalUric": 129.6, "CalcUric": 153, "Rating": "3", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Cabbage", "TotalUric": 3.2, "CalcUric": 3.8, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Carrot", "TotalUric": 2.2, "CalcUric": 2.5, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Cauliflower", "TotalUric": 57.2, "CalcUric": 67.2, "Rating": "2", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Cherry tomato", "TotalUric": 3.1, "CalcUric": 3.7, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Chinese cabbage", "TotalUric": 7, "CalcUric": 8.2, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Corn", "TotalUric": 11.7, "CalcUric": 13.7, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Cucumber", "TotalUric": 9.4, "CalcUric": 11.1, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Eggplant", "TotalUric": 50.7, "CalcUric": 58.7, "Rating": "2", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Garlic", "TotalUric": 17, "CalcUric": 20.1, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Garlic chives (nira)", "TotalUric": 19.4, "CalcUric": 23, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Ginger", "TotalUric": 2.3, "CalcUric": 2.5, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Green pepper", "TotalUric": 69.2, "CalcUric": 79.8, "Rating": "2", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Gumbo (okura)", "TotalUric": 39.5, "CalcUric": 46.3, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Japanese ginger (myoga)", "TotalUric": 7.8, "CalcUric": 9.2, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Japanese leek (negi)", "TotalUric": 41.4, "CalcUric": 48, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Japanese pumpkin", "TotalUric": 56.6, "CalcUric": 66.3, "Rating": "2", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Komatsuna - Leaf", "TotalUric": 10.6, "CalcUric": 12.3, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Komatsuna - Young leaf", "TotalUric": 39, "CalcUric": 45.1, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Onion", "TotalUric": 2.3, "CalcUric": 2.7, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Parsley", "TotalUric": 288.9, "CalcUric": 341.3, "Rating": "4", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Perilla leaves (shiso)", "TotalUric": 41.4, "CalcUric": 49, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Potato", "TotalUric": 6.5, "CalcUric": 7.5, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Spinach", "TotalUric": 51.4, "CalcUric": 61, "Rating": "2", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Spinach - Young leaf", "TotalUric": 171.8, "CalcUric": 202.1, "Rating": "3", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Sprouts (with bean)", "TotalUric": 57.3, "CalcUric": 67.4, "Rating": "2", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Sweet potato", "TotalUric": 17, "CalcUric": 20.1, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "White radish sprouts", "TotalUric": 73.2, "CalcUric": 86.6, "Rating": "2", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Zucchini", "TotalUric": 13.1, "CalcUric": 15.3, "Rating": "1", "Type": "Vegetables", "Comments": "" }
+{ "Name": "Beef Brisket", "TotalUric": 79.2, "CalcUric": 95.8, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Clod", "TotalUric": 104, "CalcUric": 126.1, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Heart", "TotalUric": 185, "CalcUric": 223.6, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Kidney", "TotalUric": 174.2, "CalcUric": 203.4, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Large intestine", "TotalUric": 88, "CalcUric": 103.3, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Liver", "TotalUric": 219.8, "CalcUric": 255.5, "Rating": "4", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Neck", "TotalUric": 100.6, "CalcUric": 121, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Ribloin", "TotalUric": 74.2, "CalcUric": 89.1, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Shin", "TotalUric": 106.4, "CalcUric": 127.8, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Shoulder ribs", "TotalUric": 77.4, "CalcUric": 92.5, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Shoulder sirloin", "TotalUric": 90.2, "CalcUric": 109.3, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Stomach", "TotalUric": 83.9, "CalcUric": 99.2, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Tenderloin", "TotalUric": 98.4, "CalcUric": 119.4, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Tongue", "TotalUric": 90.4, "CalcUric": 109.3, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Topside", "TotalUric": 110.8, "CalcUric": 134.5, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Topside (raw)", "TotalUric": 135.2, "CalcUric": 162.4, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Beef Topside (heated)", "TotalUric": 143.5, "CalcUric": 173.8, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Chicken Breast", "TotalUric": 141.2, "CalcUric": 171.8, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Chicken Buttocks", "TotalUric": 68.8, "CalcUric": 81.6, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Chicken Gizzard", "TotalUric": 142.9, "CalcUric": 169.8, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Chicken Heart", "TotalUric": 125.4, "CalcUric": 150, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Chicken Leg", "TotalUric": 122.9, "CalcUric": 149.6, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Chicken Liver", "TotalUric": 312.2, "CalcUric": 363.1, "Rating": "5", "Type": "Meat", "Comments": "" }
+{ "Name": "Chicken Skin", "TotalUric": 119.7, "CalcUric": 142.9, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Chicken White meat", "TotalUric": 153.9, "CalcUric": 188.3, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Chicken Wing", "TotalUric": 137.5, "CalcUric": 168.1, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Horse", "TotalUric": 113.1, "CalcUric": 136.5, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Horse Mutton", "TotalUric": 96.2, "CalcUric": 117.7, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Horse Rum", "TotalUric": 93.5, "CalcUric": 114.3, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Heart", "TotalUric": 119.2, "CalcUric": 144.6, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Kidney", "TotalUric": 195, "CalcUric": 232, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Liver", "TotalUric": 284.8, "CalcUric": 331.2, "Rating": "4", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Neck", "TotalUric": 70.5, "CalcUric": 85.7, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Ribs", "TotalUric": 75.8, "CalcUric": 92.5, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Rump", "TotalUric": 113, "CalcUric": 137.8, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Shoulder", "TotalUric": 81.4, "CalcUric": 99.2, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Shoulder ribs", "TotalUric": 90.8, "CalcUric": 110.9, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Shoulder sirloin", "TotalUric": 95.1, "CalcUric": 116, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Shoulder knee", "TotalUric": 107.6, "CalcUric": 131.1, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Sirloin", "TotalUric": 90.9, "CalcUric": 110.9, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Tenderloin", "TotalUric": 119.7, "CalcUric": 146.2, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Pork Tongue", "TotalUric": 104, "CalcUric": 126.1, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Whale Meat", "TotalUric": 111.3, "CalcUric": 136.2, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Whale Tail meat", "TotalUric": 87.6, "CalcUric": 107.6, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Bacon", "TotalUric": 61.8, "CalcUric": 75.6, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Boneless ham", "TotalUric": 74.2, "CalcUric": 90.8, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Corned beef", "TotalUric": 47, "CalcUric": 57.2, "Rating": "1", "Type": "Meat", "Comments": "" }
+{ "Name": "Frankfurt sausage", "TotalUric": 49.8, "CalcUric": 60.5, "Rating": "1", "Type": "Meat", "Comments": "" }
+{ "Name": "Liver paste", "TotalUric": 80, "CalcUric": 94.1, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Pressed ham", "TotalUric": 64.4, "CalcUric": 79, "Rating": "2", "Type": "Meat", "Comments": "" }
+{ "Name": "Prosciutto (Parma ham)", "TotalUric": 138.3, "CalcUric": 168.2, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Salami", "TotalUric": 120.4, "CalcUric": 146.2, "Rating": "3", "Type": "Meat", "Comments": "" }
+{ "Name": "Vienna sausage", "TotalUric": 45.5, "CalcUric": 55.5, "Rating": "1", "Type": "Meat", "Comments": "" }
+{ "Name": "Arabesque greenling", "TotalUric": 150, "CalcUric": 181, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Ayu", "TotalUric": 133.1, "CalcUric": 161.4, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Barracuda", "TotalUric": 147.9, "CalcUric": 179.9, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Bastard halibut", "TotalUric": 133.4, "CalcUric": 163.1, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Bonito", "TotalUric": 211.4, "CalcUric": 258.9, "Rating": "4", "Type": "Fish", "Comments": "" }
+{ "Name": "Carp", "TotalUric": 103.2, "CalcUric": 126.1, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Chub mackerel", "TotalUric": 122.1, "CalcUric": 149.6, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Fat greenling", "TotalUric": 129.1, "CalcUric": 158, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Flying ﬁsh", "TotalUric": 154.6, "CalcUric": 188.3, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Gnomeﬁsh Meat", "TotalUric": 150.8, "CalcUric": 184.4, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Gnomeﬁsh Fish", "TotalUric": 382.3, "CalcUric": 435.5, "Rating": "5", "Type": "Fish", "Comments": "" }
+{ "Name": "Herring", "TotalUric": 139.6, "CalcUric": 169.8, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Jack mackerel", "TotalUric": 165.3, "CalcUric": 198.4, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Japanese amberjack", "TotalUric": 120.8, "CalcUric": 147.9, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Japanese eel", "TotalUric": 92.1, "CalcUric": 110.9, "Rating": "2", "Type": "Fish", "Comments": "" }
+{ "Name": "Japanese seabass", "TotalUric": 119.5, "CalcUric": 146.2, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Mebaru", "TotalUric": 124.2, "CalcUric": 151.3, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Monkﬁsh Meat", "TotalUric": 70, "CalcUric": 84.2, "Rating": "2", "Type": "Fish", "Comments": "" }
+{ "Name": "Monkﬁsh Liver (Raw)", "TotalUric": 104.3, "CalcUric": 121.8, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Monkﬁsh Liver (steamed)", "TotalUric": 399.2, "CalcUric": 468.2, "Rating": "5", "Type": "Fish", "Comments": "" }
+{ "Name": "Paciﬁc saury", "TotalUric": 154.9, "CalcUric": 184.9, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Rainbow trout", "TotalUric": 180.9, "CalcUric": 216.8, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Red seabream", "TotalUric": 128.9, "CalcUric": 158, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Sableﬁsh Meat", "TotalUric": 123.3, "CalcUric": 151.1, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Sableﬁsh Skin", "TotalUric": 66.9, "CalcUric": 80.8, "Rating": "2", "Type": "Fish", "Comments": "" }
+{ "Name": "Sailﬁn sandﬁsh", "TotalUric": 98.5, "CalcUric": 117.7, "Rating": "2", "Type": "Fish", "Comments": "" }
+{ "Name": "Salmon", "TotalUric": 119.3, "CalcUric": 146.2, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Sardine", "TotalUric": 210.4, "CalcUric": 247.1, "Rating": "4", "Type": "Fish", "Comments": "" }
+{ "Name": "Sillaginidae", "TotalUric": 143.9, "CalcUric": 176.5, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Spanish mackerel", "TotalUric": 139.3, "CalcUric": 171.5, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Striped pigﬁsh", "TotalUric": 149.3, "CalcUric": 183.2, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Tileﬁsh", "TotalUric": 119.4, "CalcUric": 146.2, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Tuna", "TotalUric": 157.4, "CalcUric": 193.3, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Wakasagi smelt", "TotalUric": 94.8, "CalcUric": 114.3, "Rating": "2", "Type": "Fish", "Comments": "" }
+{ "Name": "Weather loach", "TotalUric": 136, "CalcUric": 161.4, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Yellow striped flounder", "TotalUric": 113, "CalcUric": 136.2, "Rating": "3", "Type": "Fish", "Comments": "" }
+{ "Name": "Caviar", "TotalUric": 94.7, "CalcUric": 111.1, "Rating": "2", "Type": "FIsh Roe and Milt", "Comments": "" }
+{ "Name": "Flying ﬁsh roe", "TotalUric": 91.5, "CalcUric": 107.1, "Rating": "2", "Type": "FIsh Roe and Milt", "Comments": "" }
+{ "Name": "Flying ﬁsh roe (Tobiko)", "TotalUric": 67.8, "CalcUric": 81.8, "Rating": "2", "Type": "FIsh Roe and Milt", "Comments": "" }
+{ "Name": "Herring roe (Kazunoko)", "TotalUric": 21.9, "CalcUric": 25.2, "Rating": "1", "Type": "FIsh Roe and Milt", "Comments": "" }
+{ "Name": "Salmon roe (Ikura)", "TotalUric": 3.7, "CalcUric": 4.4, "Rating": "1", "Type": "FIsh Roe and Milt", "Comments": "" }
+{ "Name": "Pollock roe", "TotalUric": 159.3, "CalcUric": 186, "Rating": "3", "Type": "FIsh Roe and Milt", "Comments": "" }
+{ "Name": "Pollock roe (Tarako)", "TotalUric": 120.7, "CalcUric": 141.2, "Rating": "3", "Type": "FIsh Roe and Milt", "Comments": "" }
+{ "Name": "Salmon roe (Sujiko)", "TotalUric": 15.7, "CalcUric": 18.5, "Rating": "1", "Type": "FIsh Roe and Milt", "Comments": "" }
+{ "Name": "Milt (Striped pigﬁsh)", "TotalUric": 305.5, "CalcUric": 351.1, "Rating": "5", "Type": "FIsh Roe and Milt", "Comments": "" }
+{ "Name": "Botan shrimp", "TotalUric": 53.4, "CalcUric": 64, "Rating": "2", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Botan shrimp (roe)", "TotalUric": 162.5, "CalcUric": 194.9, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Clam", "TotalUric": 145.5, "CalcUric": 171.5, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Common orient clam", "TotalUric": 104.5, "CalcUric": 122.7, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Crab Ovary", "TotalUric": 152.2, "CalcUric": 175.4, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Firefly squid", "TotalUric": 128.1, "CalcUric": 151.2, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Japanese flying squid", "TotalUric": 186.8, "CalcUric": 223.6, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Japanese scallop", "TotalUric": 76.5, "CalcUric": 94.2, "Rating": "2", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Kuruma shrimp", "TotalUric": 195.3, "CalcUric": 235.3, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Octopus", "TotalUric": 137.3, "CalcUric": 159.7, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Octopus Organs", "TotalUric": 79.8, "CalcUric": 93.1, "Rating": "2", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Okiami (Krill)", "TotalUric": 225.7, "CalcUric": 267.3, "Rating": "4", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Oriental shrimp", "TotalUric": 273.2, "CalcUric": 321.1, "Rating": "4", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Oyster", "TotalUric": 184.5, "CalcUric": 213.5, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Red king crab", "TotalUric": 99.6, "CalcUric": 119.4, "Rating": "2", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Sakura shrimp (dried)", "TotalUric": 749.1, "CalcUric": 907, "Rating": "5*", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Sea cucumber", "TotalUric": 5.5, "CalcUric": 6.6, "Rating": "1", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Sea Urchin", "TotalUric": 137.3, "CalcUric": 160.7, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Shiba shrimp", "TotalUric": 144.2, "CalcUric": 176.5, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Shredded squid (dried)", "TotalUric": 94.4, "CalcUric": 114.2, "Rating": "2*", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Snow crab", "TotalUric": 136.4, "CalcUric": 161.4, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Spear squid", "TotalUric": 160.5, "CalcUric": 190, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Spiny lobster", "TotalUric": 102.1, "CalcUric": 125.2, "Rating": "3", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Squid Organs", "TotalUric": 59.6, "CalcUric": 68.8, "Rating": "2", "Type": "Shellﬁsh, Mollusk", "Comments": "" }
+{ "Name": "Jack mackerel", "TotalUric": 245.8, "CalcUric": 289.1, "Rating": "4", "Type": "Canned Fish", "Comments": "" }
+{ "Name": "Paciﬁc saury", "TotalUric": 208.8, "CalcUric": 245.4, "Rating": "4", "Type": "Canned Fish", "Comments": "" }
+{ "Name": "Sardine", "TotalUric": 305.7, "CalcUric": 358.1, "Rating": "5", "Type": "Canned Fish", "Comments": "" }
+{ "Name": "Shishamo with roe", "TotalUric": 149.6, "CalcUric": 177.1, "Rating": "3", "Type": "Canned Fish", "Comments": "" }
+{ "Name": "Anchovy (dried)", "TotalUric": 1108.6, "CalcUric": 1314.2, "Rating": "5*", "Type": "Dried ﬁsh", "Comments": "" }
+{ "Name": "Katsuobushi (dried bonito)", "TotalUric": 493.3, "CalcUric": 600.1, "Rating": "5*", "Type": "Dried ﬁsh", "Comments": "" }
+{ "Name": "Niboshi (dried baby sardines)", "TotalUric": 746.1, "CalcUric": 879.2, "Rating": "5*", "Type": "Dried ﬁsh", "Comments": "" }
+{ "Name": "Whitebait (dried)", "TotalUric": 471.5, "CalcUric": 554, "Rating": "5*", "Type": "Dried ﬁsh", "Comments": "" }
+{ "Name": "Salmon", "TotalUric": 132.9, "CalcUric": 159.7, "Rating": "3", "Type": "Canned ﬁsh", "Comments": "" }
+{ "Name": "Tuna", "TotalUric": 116.9, "CalcUric": 142.9, "Rating": "3", "Type": "Canned ﬁsh", "Comments": "" }
+{ "Name": "Fish ball", "TotalUric": 67.6, "CalcUric": 80.7, "Rating": "2", "Type": "Processed ﬁsh", "Comments": "" }
+{ "Name": "Fish sausage", "TotalUric": 22.6, "CalcUric": 26.9, "Rating": "1", "Type": "Processed ﬁsh", "Comments": "" }
+{ "Name": "Fishcake tube (Chikuwa)", "TotalUric": 47.7, "CalcUric": 57.2, "Rating": "1", "Type": "Processed ﬁsh", "Comments": "" }
+{ "Name": "Fish product (Hanpen)", "TotalUric": 12.5, "CalcUric": 15, "Rating": "1", "Type": "Processed ﬁsh", "Comments": "" }
+{ "Name": "Fish product (Kamaboko)", "TotalUric": 26.4, "CalcUric": 31.9, "Rating": "1", "Type": "Processed ﬁsh", "Comments": "" }
+{ "Name": "Fish product (Narutomaki)", "TotalUric": 32.4, "CalcUric": 38.7, "Rating": "1", "Type": "Processed ﬁsh", "Comments": "" }
+{ "Name": "Fish product (Sasakamaboko)", "TotalUric": 47.8, "CalcUric": 57.2, "Rating": "1", "Type": "Processed ﬁsh", "Comments": "" }
+{ "Name": "Fish product (Satsuma age)", "TotalUric": 21.4, "CalcUric": 25.2, "Rating": "1", "Type": "Processed ﬁsh", "Comments": "" }
+{ "Name": "Deep-fried rice cracker", "TotalUric": 14.1, "CalcUric": 16.2, "Rating": "1", "Type": "Snacks", "Comments": "" }
+{ "Name": "Ramen (Japanese noodle) Soup", "TotalUric": 32.7, "CalcUric": 39, "Rating": "1", "Type": "Snacks", "Comments": "" }
+{ "Name": "Ramen (Japanese noodle) Noodle", "TotalUric": 21.6, "CalcUric": 25, "Rating": "1", "Type": "Snacks", "Comments": "" }
+{ "Name": "Barbecue sauce", "TotalUric": 14.9, "CalcUric": 18.4, "Rating": "1", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Frying powder", "TotalUric": 68.7, "CalcUric": 81.8, "Rating": "2", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Honey", "TotalUric": 0.9, "CalcUric": 1.1, "Rating": "1", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Mirin", "TotalUric": 1.2, "CalcUric": 1.4, "Rating": "1", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Red Miso", "TotalUric": 63.5, "CalcUric": 75.6, "Rating": "2", "Type": "Seasonings", "Comments": "" }
+{ "Name": "White Miso", "TotalUric": 48.8, "CalcUric": 57.8, "Rating": "1", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Nampla", "TotalUric": 93.1, "CalcUric": 113.6, "Rating": "2", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Oyster sauce", "TotalUric": 134.4, "CalcUric": 161.8, "Rating": "3", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Consomme Powder soup", "TotalUric": 179.8, "CalcUric": 211.3, "Rating": "3*", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Powder soup Potage", "TotalUric": 37.6, "CalcUric": 45.5, "Rating": "1*", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Clam chowder Powder soup", "TotalUric": 47.1, "CalcUric": 56.6, "Rating": "1*", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Chinese soup Powder soup         ", "TotalUric": 185.9, "CalcUric": 226.1, "Rating": "3*", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Matsutake Powder soup", "TotalUric": 233.4, "CalcUric": 274.4, "Rating": "4*", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Powdered Umami broth", "TotalUric": 684.8, "CalcUric": 843.3, "Rating": "5*", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Rice bran", "TotalUric": 100.2, "CalcUric": 116.9, "Rating": "3", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Dark Soy sauce", "TotalUric": 45.2, "CalcUric": 54.3, "Rating": "1", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Light Soy sauce", "TotalUric": 55.3, "CalcUric": 64.9, "Rating": "2", "Type": "Seasonings", "Comments": "" }
+{ "Name": "Beer yeast", "TotalUric": 2995.7, "CalcUric": 3561.5, "Rating": "5", "Type": "Supplements", "Comments": "" }
+{ "Name": "Beer yeast product", "TotalUric": 1206.2, "CalcUric": 1426.4, "Rating": "5", "Type": "Supplements", "Comments": "" }
+{ "Name": "Chitin, Chitosan", "TotalUric": 0.6, "CalcUric": 0.7, "Rating": "1", "Type": "Supplements", "Comments": "" }
+{ "Name": "Chlorella", "TotalUric": 3182.7, "CalcUric": 3747.3, "Rating": "5", "Type": "Supplements", "Comments": "" }
+{ "Name": "Chondroitin and Beer yeast", "TotalUric": 186.1, "CalcUric": 222.1, "Rating": "3", "Type": "Supplements", "Comments": "" }
+{ "Name": "DNA/RNA", "TotalUric": 21493.6, "CalcUric": 25640.8, "Rating": "5", "Type": "Supplements", "Comments": "" }
+{ "Name": "Glucosamine", "TotalUric": 11.8, "CalcUric": 14.4, "Rating": "1", "Type": "Supplements", "Comments": "" }
+{ "Name": "Nucleic acid juice", "TotalUric": 8.3, "CalcUric": 9.6, "Rating": "1", "Type": "Supplements", "Comments": "" }
+{ "Name": "Polysaccharide", "TotalUric": 58.1, "CalcUric": 68.7, "Rating": "2", "Type": "Supplements", "Comments": "" }
+{ "Name": "Royal jelly", "TotalUric": 403.4, "CalcUric": 494.3, "Rating": "5", "Type": "Supplements", "Comments": "" }
+{ "Name": "Scales and collagen", "TotalUric": 2.9, "CalcUric": 3.4, "Rating": "1", "Type": "Supplements", "Comments": "" }
+{ "Name": "Soy isoflavone", "TotalUric": 6.9, "CalcUric": 7.9, "Rating": "1", "Type": "Supplements", "Comments": "" }
+{ "Name": "Spirulina", "TotalUric": 1076.8, "CalcUric": 1268.5, "Rating": "5", "Type": "Supplements", "Comments": "" }
+{ "Name": "Kale Vegetable drink powder", "TotalUric": 40.2, "CalcUric": 46.4, "Rating": "1", "Type": "Supplements", "Comments": "" }
+{ "Name": "Barley Vegetable drink powder", "TotalUric": 88.5, "CalcUric": 102.5, "Rating": "2", "Type": "Supplements", "Comments": "" }
+
+

@@ -3,49 +3,51 @@
 const Joi = require('@hapi/joi');
 const mongoose = require('mongoose');
 
-const Ingredient = mongoose.model('ingredient', new mongoose.Schema({
-    name: { type: String,
+module.exports.Ingredient = mongoose.model('ingredient', new mongoose.Schema({
+    Name: { type: String,
                 required: true,
                 minlendgth: 3,
                 maxlength: 50
               },
-    totalUric: {
-          type: Double,
+    TotalUric: {
+          type: Number,
           required: true
         },
 
-    calcUric: {
-          type: Double,
+    CalcUric: {
+          type: Number,
           required: true
         },
 
-    rating: { type: Number,
+    Rating: { type: Number,
           required: true,
           min: 0,
           max: 5
         },
 
-    class: { type: String,
+    Type: { type: String,
           required: true,
           minlendgth: 5,
           maxlength: 50
         },
 
-    comments: { type: String,
+    Comments: { type: String,
         maxlength: 500
       }
 
     }));
       
-function validateIngredient(ingredient) {
+ module.exports.validate = function (ingredient) {
             const schema = {
-              name: Joi.string().min(3).required(),
-              totalUric: Joi.Double.required(),
-              calcUric: Joi.Double.required(),
-              rating: Joi.number().integer().min(1).max(5).required(),
-              class: Joi.string().min(5).max(50).required()
+              Name: Joi.string().min(3).required(),
+              TotalUric: Joi.number().required(),
+              CalcUric: Joi.number().required(),
+              Rating: Joi.number().integer().min(1).max(5).required(),
+              Type: Joi.string().min(5).max(50).required(),
+              Comments: Joi.string()
             };
             return Joi.validate(ingredient, schema);
-}
-module.exports.Ingredient = Ingredient;
-module.exports.validate = validateIngredient();
+};
+
+// module.exports.Ingredient = Ingredient;
+// module.exports.validate = validateIngredient();

@@ -1,0 +1,1 @@
+mongoimport --db goutDB --collection ingredients --file goutfile.json

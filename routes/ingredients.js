@@ -36,8 +36,14 @@ router.post('/', async (req, res) => {
     }
   });
   
-router.get('/:id', (req, res) => {
-  
+router.get('/:id', async (req, res) => {
+    const { error } = await validate(req.body);
+    if (error) return res.status(400).send(error.details[0].message);
+        const ingredient = await Ingredient.findById(req.params.id);
+            if(!ingredient) return res.status(404).send('Ingredient not found.');
+            res.send(ingredient);
 }); // CRUD: Read an Ingredient
+
+
 
 module.exports = router;

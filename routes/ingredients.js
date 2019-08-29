@@ -61,13 +61,12 @@ router.get('/:id', async (req, res) => {
     } catch (err) {
         console.log('Error: ',err.message);
     }
-
 }); // CRUD: Read an Ingredient
 
-router.get('/', async (req, res) => {
-
+router.get('/type=', async (req, res) => {
+    console.log(req);
     try {
-        const ingredient = await Ingredient.find(req.body.type);
+        const ingredient = await Ingredient.find({type:req.body});
         if(!ingredient) return res.status(404).send('Ingredient Type not found.');
         res.send(ingredient);
     } catch (err) {

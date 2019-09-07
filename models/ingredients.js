@@ -51,12 +51,5 @@ module.exports.Ingredient = mongoose.model('ingredient', new mongoose.Schema({
             return Joi.validate(ingredient, schema);
 };
 
-module.exports.validateType = function (type) {
-  const schemaType = {
-    Type: Joi.string().min(5).max(50).required()
-  };
-  return Joi.validate(type, schemaType);
-};
-
 // module.exports.Ingredient = Ingredient;
 // module.exports.validate = validateIngredient();

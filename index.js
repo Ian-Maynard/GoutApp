@@ -10,7 +10,7 @@ const ingredients = require("./routes/ingredients.js");
 const main = require("./routes/main.js");
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost/goutDB')
+mongoose.connect('mongodb://localhost/goutDB',{ useNewUrlParser: true })
  .then(() => console.log('Connected  to Mongodb...'))
  .catch(err => console.error('Could not connect to MongoDB...',err));
 

@@ -24,7 +24,7 @@ router.get('/name/:name', async (req, res) => {
     console.log(req.params.name);
 
     try {
-        const ingredient = await Ingredient.findAll({Name: name});
+        const ingredient = await Ingredient.find({Name: name});
         if(!ingredient) return res.status(404).send('Ingredient not found. Really');
         res.send(ingredient);
     } 
@@ -36,7 +36,6 @@ router.get('/name/:name', async (req, res) => {
 
 router.get('/type/:type', async (req, res) => {
     const type = req.params.type;
-    console.log('Type is ',req.params.type);
 
     try {
         const ingredient = await Ingredient.find({Type: type});
@@ -49,14 +48,20 @@ router.get('/type/:type', async (req, res) => {
 }); // CRUD: Read an Ingredient
 
 
-router.get('/rating/:rating', async (req, res) => {
-    const rating = req.params.rating;
-    console.log(req.params.rating);
+router.get('/ratings/:ratings', async (req, res) => {
+    const ratings = req.params.ratings;
+    
+    console.log(req.params.ratings);
 
     try {
-        const ingredient = await Ingredient.find({Rating: rating});
-        if(!ingredient) return res.status(404).send('No Ingredient with a rating of'+rating+' found.');
+        const ingredient = await Ingredient.find({Rating: ratings});
+        if(!ingredient) {
+            console.log('This is BULLSHIT!');
+            return res.status(404).send('No Ingredient with a rating of'+ratings+' found.');
+
+        }
         res.send(ingredient);
+        console.log(ingredient);    
     } 
     catch (err) {
         console.log('Error!: ',err.message);

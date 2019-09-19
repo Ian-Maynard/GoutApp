@@ -11,6 +11,7 @@ module.exports.Ingredient = mongoose.model('ingredient', new mongoose.Schema({
                 minlendgth: 3,
                 maxlength: 50
               },
+
     TotalUric: {
           type: Number,
           required: true
@@ -36,10 +37,10 @@ module.exports.Ingredient = mongoose.model('ingredient', new mongoose.Schema({
     Comments: { type: String,
         maxlength: 500
       }
-
+      
     }));
       
- module.exports.validate = function (ingredient) {
+ module.exports.validateIngredient = function (ingredient) {
             const schema = {
               Name: Joi.string().min(3).required(),
               TotalUric: Joi.number().required(),
@@ -50,6 +51,3 @@ module.exports.Ingredient = mongoose.model('ingredient', new mongoose.Schema({
             };
             return Joi.validate(ingredient, schema);
 };
-
-// module.exports.Ingredient = Ingredient;
-// module.exports.validate = validateIngredient();

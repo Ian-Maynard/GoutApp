@@ -8,7 +8,6 @@ const url = require('url');
 const querystring = require('querystring');
 const bodyParser = require('body-parser');
 
-
 router.get('/', async (req, res) => {   
     try {
         const ingredients = await Ingredient.find().sort("Name");
@@ -18,14 +17,13 @@ router.get('/', async (req, res) => {
     }      
 }); // CRUD: Read all Ingredients
 
-
 router.get('/name/:name', async (req, res) => {
     const name = req.params.name;
     console.log(req.params.name);
 
     try {
         const ingredient = await Ingredient.find({Name: name});
-        if(!ingredient) return res.status(404).send('Ingredient not found. Really');
+        if (!ingredient) return res.status(404).send('Ingredient not found. Really');
         res.send(ingredient);
     } 
     catch (err) {
@@ -39,7 +37,7 @@ router.get('/type/:type', async (req, res) => {
 
     try {
         const ingredient = await Ingredient.find({Type: type});
-        if(!ingredient) return res.status(404).send('Ingredient not found. Really');
+        if (!ingredient) return res.status(404).send('Ingredient not found. Really');
         res.send(ingredient);
     } 
     catch (err) {
@@ -47,27 +45,21 @@ router.get('/type/:type', async (req, res) => {
     }
 }); // CRUD: Read an Ingredient
 
-
 router.get('/ratings/:ratings', async (req, res) => {
     const ratings = req.params.ratings;
-    
     console.log(req.params.ratings);
 
     try {
         const ingredient = await Ingredient.find({Rating: ratings});
-        if(!ingredient) {
-            console.log('This is BULLSHIT!');
+        if (!ingredient) {
             return res.status(404).send('No Ingredient with a rating of'+ratings+' found.');
-
         }
         res.send(ingredient);
-        console.log(ingredient);    
     } 
     catch (err) {
         console.log('Error!: ',err.message);
     }
 }); // CRUD: Read an Ingredient
-
 
 router.get('/total/:total', async (req, res) => {
     const total = req.params.total;
@@ -75,7 +67,7 @@ router.get('/total/:total', async (req, res) => {
 
     try {
         const ingredient = await Ingredient.find({TotalUric: total});
-        if(!ingredient) return res.status(404).send('No Ingredient with a rating of'+rating+' found.');
+        if (!ingredient) return res.status(404).send('No Ingredient with a rating of'+rating+' found.');
         res.send(ingredient);
     } 
     catch (err) {
@@ -83,20 +75,16 @@ router.get('/total/:total', async (req, res) => {
     }
 }); // CRUD: Read an Ingredient
 
-
-
-
 router.get('/:id', async (req, res) => {
     try {
         const ingredient = await Ingredient.findById(req.params.id);
-        if(!ingredient) return res.status(404).send('Ingredient not found.');
+        if (!ingredient) return res.status(404).send('Ingredient not found.');
         res.send(ingredient);
     } 
     catch (err) {
         console.log('Error: ',err.message);
     }
 }); // CRUD: Read an Ingredient
-
 
 router.post('/', async (req, res) => {
     try {
@@ -121,5 +109,4 @@ router.post('/', async (req, res) => {
   }); 
   // Post route
   
-
 module.exports = router;

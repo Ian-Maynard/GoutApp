@@ -9,6 +9,9 @@ const port = process.env.PORT || 3000;
 const ingredients = require("./routes/ingredients.js");
 const main = require("./routes/main.js");
 const mongoose = require('mongoose');
+const bodyParser = require('body-parser');
+const querystring = require('querystring');
+
 
 mongoose.connect('mongodb://localhost/goutDB',{ useNewUrlParser: true })
  .then(() => console.log('Connected  to Mongodb...'))
@@ -16,6 +19,8 @@ mongoose.connect('mongodb://localhost/goutDB',{ useNewUrlParser: true })
 
 app.use(express.json()); 
 app.use('/api/ingreds', ingredients);
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
 app.use('/', main);
 
 app.listen(port, () => console.log(`Listening on port ${port}`)); 

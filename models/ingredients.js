@@ -12,7 +12,7 @@ module.exports.Ingredient = mongoose.model('ingredient', new mongoose.Schema({
                 maxlength: 50
               },
 
-    TotalUric: {
+    Total: {
           type: Number,
           required: true
         },

@@ -8,7 +8,7 @@ const ingredient = require('./ingredients');
 const { Ingredient, validateIngredient} = require('../models/ingredients');
 
 module.exports.Recipe = mongoose.model('recipe', new mongoose.Schema({
-    Name: { type: String,
+    name: { type: String,
                 required: true,
                 minlendgth: 3,
                 maxlength: 80
@@ -38,7 +38,7 @@ module.exports.Recipe = mongoose.model('recipe', new mongoose.Schema({
         maxlength: 500
       },
 
-    Comments: { type: String,
+    comments: { type: String,
         maxlength: 500
       }
 

@@ -22,13 +22,17 @@ router.get('/name/:name', async (req, res) => {
     console.log(req.params.name);
 
     try {
-        const ingredient = await Ingredient.find({Name: name});
+        var ingredient = await Ingredient.find({Name: name});
         if (!ingredient) return res.status(404).send('Ingredient not found. Really');
+        let inn = ingredient.Name;
+        console.log(inn);
         res.send(ingredient);
     } 
+
     catch (err) {
         console.log('Error!: ',err.message);
     }
+
 }); // CRUD: Read an Ingredient
 
 
@@ -38,7 +42,7 @@ router.get('/type/:type', async (req, res) => {
     try {
         const ingredient = await Ingredient.find({Type: type});
         if (!ingredient) return res.status(404).send('Ingredient not found. Really');
-        res.send(ingredient);
+        res.send(ingredient.Name);
     } 
     catch (err) {
         console.log('Error!: ',err.message);
@@ -67,13 +71,41 @@ router.get('/total/:total', async (req, res) => {
 
     try {
         const ingredient = await Ingredient.find({TotalUric: total});
-        if (!ingredient) return res.status(404).send('No Ingredient with a rating of'+rating+' found.');
+        if (!ingredient) return res.status(404).send('No Ingredient with a total of '+total+' found.');
         res.send(ingredient);
     } 
     catch (err) {
         console.log('Error!: ',err.message);
     }
 }); // CRUD: Read an Ingredient
+
+
+router.get('/eval/:eval', async (req, res) => {
+const inStr = req.params.eval.split(" ");
+const ingredientCount = inStr.length;
+var average = 0;
+
+
+    // for (i = 0; i < ingredientCount; i++) {
+
+    //     console.log("i is: "+i+" "+inStr[i]);
+
+        try {
+            const ingredient = await Ingredient.find({ Name: inStr[0]});
+                if (!ingredient) return res.status(404).send('No Ingredient with a name of '+inStr[0]+' found.');  
+                average = average + ingredient.TotalUric;
+                console.log("Ingredient " + ingredient.TotalUric+ " Average: ", average);  
+            } 
+        catch (err) {
+            console.log('Error!: ',err.message);
+        }
+    // }
+    average  = average / inStr.length;
+    res.send({average: average});
+
+}); // CRUD: Read an Ingredient
+
+
 
 router.get('/:id', async (req, res) => {
     try {

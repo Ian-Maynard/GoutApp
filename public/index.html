@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,30 +8,68 @@
 </head>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script></script>
-    <body>
+
+<script>
+    
+    $(document).ready(function(){
+
+        $("fieldOne").on({
+                mouseenter: function(){
+                $(this).css("background-color", "lightgray");
+                },  
+                mouseleave: function(){
+                $(this).css("background-color", "lightblue");
+                }, 
+                click: function(){
+                $(this).css("background-color", "yellow");
+                    }  
+        });
+
+
+        $("fieldTwo").on({
+                mouseenter: function(){
+                $(this).css("background-color", "lightgray");
+                },  
+                mouseleave: function(){
+                $(this).css("background-color", "lightblue");
+                }, 
+                click: function(){
+                $(this).css("background-color", "yellow");
+                    }  
+        });
+
+
+        $("fieldThree").on({
+                mouseenter: function(){
+                $(this).css("background-color", "lightgray");
+                },  
+                mouseleave: function(){
+                $(this).css("background-color", "lightblue");
+                }, 
+                click: function(){
+                $(this).css("background-color", "yellow");
+                    }  
+        });
+
+    });
+
+</script>
+<body>
             <div class="jumbotron text-center">
-                <h1>My First Bootstrap Page</h1>
-            </div>
-
+                <h1>Gout APP</h1>
+            </div>  
             <div class="container">
-                <div class="row">
-                <div class="col-sm-4">
-                    <h3>Column 1</h3>
-                    <p>Lorem ipsum dolor..</p>
-                </div>
-
-                <div class="col-sm-4">
-                    <h3>Column 2</h3>
-                    <p>Lorem ipsum dolor..</p>
-                </div>
-                <div class="col-sm-4">
-                    <h3>Column 3</h3> 
-                    <p>Lorem ipsum dolor..</p>
-                </div>
-                </div>
+                    <form action="/action_page.php">
+                        <br>
+                        <input type="text" name="ingOne" value="Ingredient 1">
+                        <br><br>
+                        <input type="text" name="ingTwo" value="Ingredient 2">
+                        <br><br>
+                        <input type="text" name="ingThr" value="Ingredient 3">
+                        <br><br>
+                        <input type="submit" value="Submit">
+                      </form
             </div>
         </body> 
 </html>

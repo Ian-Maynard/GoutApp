@@ -1,0 +1,42 @@
+  input:focus,
+  select:focus,
+  textarea:focus,
+  button:focus {
+      outline: none;
+      background-color: black;
+      color: white;
+  }
+
+  .dataentry{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+  }
+
+   .field {
+    width: 300px;
+    margin: auto;
+    background-color: aliceblue;
+    color: darkgray;
+    font-weight: bold;
+    padding: 15px 20px;
+    display: inline-block;
+    border: 1px solid darkgray;
+    border-radius: 07px;
+    box-sizing: border-box;
+  }
+
+  .buttn {
+    width: 75 px;
+    margin: auto;
+    display: inline-block; 
+    border-radius: 07px;
+    border: 1px solid darkgray;
+    box-sizing: border-box;
+  }
+
+  .jmbo{
+    display: inline-block;
+    border-radius: 12px;
+    box-sizing: border-box;
+  }

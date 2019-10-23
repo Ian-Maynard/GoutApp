@@ -10,28 +10,6 @@
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-
-<script>
-
-    $(document).ready(function(){
-
-        var thread=null;
-
-        function findMember(t) {
-        
-         }
-            $('#fieldOne').keyup(
-                function() {
-                clearTimeout(thread);
-                var $this = $(this); 
-                thread = setTimeout(function(){findMember($this.val())}, 3000); // Set the timer and after x seconds send the take
-                
-                });
-
-    });
-
-
-</script>
 <body>
             <div class="jumbotron text-center">
                 <h1>APP</h1>
@@ -44,12 +22,11 @@
                         <br><br>
                         <input type="text" id="fieldTwo" placeholder="Ingredient 2" class="field">
                         <br><br>
-                        <input type="text" id="fieldThr" class="field">
+                        <input type="text" id="fieldThr" placeholder="Ingredient 3" class="field">
                         <br><br>
                         <input type="submit" value="Submit" class="buttn">
                     </form>
             </div>
+            <script src="./app.js "></script>
         </body> 
 </html>
-
-

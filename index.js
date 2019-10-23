@@ -11,6 +11,7 @@ const main = require("./routes/main.js");
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const querystring = require('querystring');
+var cors = require('cors');
 
 
 mongoose.connect('mongodb://localhost/goutDB',{ useNewUrlParser: true })
@@ -19,6 +20,7 @@ mongoose.connect('mongodb://localhost/goutDB',{ useNewUrlParser: true })
 
 app.use(express.json()); 
 app.use('/api/ingreds', ingredients);
+app.use(cors());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use('/', main);

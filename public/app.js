@@ -3,22 +3,20 @@
 
 var thread = null;
 
-function findIngredient(thisName) {
-      alert(thisName);
-      console.log(thisName);
-      $.ajax({ 
-            method: "GET",
-             url: "/api/ingreds/name/" + thisName}
-             )
-      .done(function(data) {
-             alert(data);
-          });
-  }
-
           $('#fieldOne').keyup(function() {
             clearTimeout(thread);
-            var $this = $(this); thread = setTimeout(function(){findIngredient($this.val())}, 1000);
+            var $this = $(this); 
+                thread = setTimeout(
+                  function()
+                        {
+                            $.ajax({ 
+                              method: "GET",
+                              url: "/api/ingreds/name/" + $this
+                              }).
+                              done(function(data) {
+                              alert(data);
+                              });
+                            }, 1000);
           });
 
 
-       

@@ -3,10 +3,11 @@
 
 var thread = null;
 
-          $('#fieldOne').keyup(function() {
+    $('#fieldOne').keyup(function() {
             clearTimeout(thread);
             var $this = $(this); 
-                thread = setTimeout(
+            
+            thread = setTimeout(
                   function()
                         {
                             $.ajax({ 
@@ -14,9 +15,10 @@ var thread = null;
                               url: "/api/ingreds/name/" + $this
                               }).
                               done(function(data) {
+                              console.log(data);
                               alert(data);
                               });
                             }, 1000);
-          });
+                                });
 
 

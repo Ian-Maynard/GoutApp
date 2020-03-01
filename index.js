@@ -13,16 +13,16 @@ const bodyParser = require('body-parser');
 const querystring = require('querystring');
 var cors = require('cors');
 
+// console.log(process.env);
 
 mongoose.connect('mongodb://localhost/goutDB',{ useNewUrlParser: true })
  .then(() => console.log('Connected  to Mongodb...'))
  .catch(err => console.error('Could not connect to MongoDB...',err));
 
 app.use(express.json()); 
-app.use('/api/ingreds', ingredients);
 app.use(cors());
+app.use('/api/ingreds', ingredients);
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use('/', main);
-
 app.listen(port, () => console.log(`Listening on port ${port}`)); 

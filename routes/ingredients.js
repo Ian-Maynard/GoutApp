@@ -20,7 +20,6 @@ router.get('/', async (req, res) => {
 router.get('/name/:name', async (req, res) => {
     const name = req.params.name;
     console.log(req.params.name);
-
     try {
         var ingredient = await Ingredient.find({Name: name});
         if (!ingredient) return res.status(404).send('Ingredient not found. Really');
@@ -50,7 +49,7 @@ router.get('/type/:type', async (req, res) => {
 }); // CRUD: Read an Ingredient
 
 router.get('/ratings/:ratings', async (req, res) => {
-    const ratings = req.params.ratings;
+    const ratings = req.params.ratings;             
     console.log(req.params.ratings);
 
     try {

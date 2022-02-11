@@ -32,7 +32,7 @@
     "config-js": "^1.1.13",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "helmet": "^3.21.2",
     "jshint": "^2.10.2",
     "lodash.merge": "^4.6.2",

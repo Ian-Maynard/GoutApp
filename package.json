@@ -31,7 +31,7 @@
     "config": "^3.2.2",
     "config-js": "^1.1.13",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^3.1.0",
     "helmet": "^3.21.2",
     "jshint": "^2.10.2",
